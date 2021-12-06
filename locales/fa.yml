@@ -27,3 +27,34 @@ personal_info:
 skills:
   soft_skills: مهارت های نرم
   hard_skills: مهارت های فنی
+web_full-stack_developer: وب Full-Stack توسعه دهنده
+contact_info:
+  address: Address
+  phone: Phone_number
+  email: Email
+  a-address:
+  a-phone: +989019167289
+personal:
+  age: Age
+  gender: Gender
+  marital_status: Marital status
+  a-age:
+  a-gender:
+  a-marital_status:
+job_status:
+  job_status: Job status
+  the_type_of_job_in_question: The type of job in question
+  intended_income: Intended income
+  cities_t_like_to_work_in: Cities I like to work in
+  a-job_status:
+  a-the_type_of_job_in_question:
+  a-intended_income:
+  a-cities_t_like_to_work_in:
+social_medias:
+  telegram: Telegram
+  twitter: Twitter
+  github: Github
+  glassdoor: Glassdoor
+  linkedin: Linkedin
+  a-github:  https://github.com/danielhr2001, "danielhr2001"
+

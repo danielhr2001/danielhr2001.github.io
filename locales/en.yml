@@ -12,19 +12,48 @@ intro:
   aka: Also known as
   whats-your-name: What's your name?
 not-found: Not found
-header_menus: 
+header_menus:
   my_name: Daniel Hajirajabi
   about_me: AboutMe
   education: Education
   experience: Experience
   skills: Skills
   personal_info: PersonalInfo
-personal_info: 
+personal_info:
   contact_info: contact info
-  personal_info: personal info
+  personal: personal info
   employment_status: employment status
   social_medias: social medias
 skills:
   soft_skills: soft skills
-  hard_skills:  hard skills
-
+  hard_skills: hard skills
+web_full-stack_developer: Web Full-Stack Developer
+contact_info:
+  address: Address
+  phone: Phone_number
+  email: Email
+  a-address: Padadshahr (St) - Ahvaz (City) - Khuzestan (Province) - Iran
+  a-phone: +989019167289
+personal:
+  age: Age
+  gender: Gender
+  marital_status: Marital status
+  a-age: born at 2001
+  a-gender: male
+  a-marital_status: single
+job_status:
+  job_status: Job status
+  the_type_of_job_in_question: The type of job in question
+  intended_income: Intended income
+  cities_i_like_to_work_in: Cities I like to work in
+  a-job_status: Freelancer
+  a-the_type_of_job_in_question: middle programmer at a German-company
+  a-intended_income: 8500 Euro
+  a-cities_t_like_to_work_in: Tehran Or every cities in Germany
+social_medias:
+  telegram: Telegram
+  twitter: Twitter
+  github: Github
+  glassdoor: Glassdoor
+  linkedin: Linkedin
+  a-github: https://github.com/danielhr2001, "danielhr2001"

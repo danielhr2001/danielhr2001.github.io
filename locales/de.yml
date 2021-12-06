@@ -27,3 +27,35 @@ personal_info:
 skills:
   soft_skills: Soft Skills
   hard_skills: Schwierige Fähigkeiten
+web_full-stack_developer: Web-Full-Stack-Entwickler
+contact_info:
+  address: Die Anschrift
+  phone: Telefonnummer
+  email: Email
+  a-address:
+  a-phone: +989019167289
+personal:
+  age: Alter
+  gender: Geschlecht
+  marital_status: Familienstand
+  a-age:
+  a-gender:
+  a-marital_status:
+job_status:
+  job_status: Beruflicher Status
+  the_type_of_job_in_question: Die Art der fraglichen Stelle
+  intended_income: Vorgesehenes Einkommen
+  cities_t_like_to_work_in: Städte, in denen ich gerne arbeite
+  a-job_status:
+  a-the_type_of_job_in_question:
+  a-intended_income:
+  a-cities_t_like_to_work_in:
+social_medias:
+  telegram: Telegramm
+  twitter: Twitter
+  github: Github
+  glassdoor: Glassdoor
+  linkedin: Linkedin
+  a-github:
+
+  
