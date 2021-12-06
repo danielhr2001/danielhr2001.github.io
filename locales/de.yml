@@ -12,14 +12,14 @@ intro:
   aka: Auch bekannt als
   whats-your-name: Wie heißt du?
 not-found: Nicht gefunden
-header_menus: 
+header_menus:
   my_name: Daniel Hajirajabi
   about_me: Über mich
   education: Ausbildung
   experience: Erfahrung
   skills: Fähigkeiten
   personal-info: PersönlicheInformationen
-personal_info: 
+personal_info:
   contact_info: Kontaktinformationen
   personal_info: persönliche
   employment_status: Beschäftigungsstatus
@@ -32,30 +32,28 @@ contact_info:
   address: Die Anschrift
   phone: Telefonnummer
   email: Email
-  a-address:
+  a-address: Padadshahr (Straße) - Ahvaz (Stadt) - Khuzestan (Provinz) - Iran
   a-phone: +989019167289
 personal:
   age: Alter
   gender: Geschlecht
   marital_status: Familienstand
-  a-age:
-  a-gender:
-  a-marital_status:
+  a-age: Ich bin 2001 geboren
+  a-gender: männlich
+  a-marital_status: Einzel
 job_status:
   job_status: Beruflicher Status
   the_type_of_job_in_question: Die Art der fraglichen Stelle
   intended_income: Vorgesehenes Einkommen
   cities_t_like_to_work_in: Städte, in denen ich gerne arbeite
-  a-job_status:
-  a-the_type_of_job_in_question:
-  a-intended_income:
-  a-cities_t_like_to_work_in:
+  a-job_status: Freiberufler
+  a-the_type_of_job_in_question: mittlerer Programmierer bei einem deutschen Unternehmen
+  a-intended_income: 8500 Euro
+  a-cities_t_like_to_work_in: Teheran oder jede Stadt in Deutschland
 social_medias:
   telegram: Telegramm
   twitter: Twitter
   github: Github
   glassdoor: Glassdoor
   linkedin: Linkedin
-  a-github:
-
-  
+  a-github: https://github.com/danielhr2001, "danielhr2001"

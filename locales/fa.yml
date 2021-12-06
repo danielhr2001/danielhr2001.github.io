@@ -5,21 +5,15 @@ button:
   home: خانه
   toggle_dark: حالت شب/روز
   toggle_langs: تغییر زبان
-intro:
-  desc: Opinionated Vite Starter Template
-  dynamic-route: Demo of dynamic route
-  hi: Hi, {name}!
-  aka: Also known as
-  whats-your-name: What's your name?
 not-found: پیدا نشد
-header_menus: 
+header_menus:
   my_name: دانیال حاجی رجبی
   about_me: درباره من
   education: سوابق تحصیلی
   experience: سوابق شغلی
   skills: مهارت ها
   personal_info: اطلاعات شخصی
-personal_info: 
+personal_info:
   contact_info: تماس
   personal_info: فردی
   employment_status: وضعیت شغلی
@@ -29,32 +23,31 @@ skills:
   hard_skills: مهارت های فنی
 web_full-stack_developer: وب Full-Stack توسعه دهنده
 contact_info:
-  address: Address
-  phone: Phone_number
-  email: Email
-  a-address:
+  address: آدرس
+  phone: شماره موبایل
+  email: ایمیل
+  a-address: ایران - استان خوزستان - شهر اهواز - خیابان 16 پادادشهر
   a-phone: +989019167289
 personal:
-  age: Age
-  gender: Gender
-  marital_status: Marital status
-  a-age:
-  a-gender:
-  a-marital_status:
+  age: سن
+  gender: جنسیت
+  marital_status: وضعیت تاهل
+  a-age: متولد سال 1379
+  a-gender: مرد
+  a-marital_status: مجرد و معاف دایم از سربازی
 job_status:
-  job_status: Job status
-  the_type_of_job_in_question: The type of job in question
-  intended_income: Intended income
-  cities_t_like_to_work_in: Cities I like to work in
-  a-job_status:
-  a-the_type_of_job_in_question:
-  a-intended_income:
-  a-cities_t_like_to_work_in:
+  job_status: وضعیت شغلی
+  the_type_of_job_in_question: نوع شغل مدنظر
+  intended_income: درآمد مدنظر
+  cities_t_like_to_work_in: شهرهایی که میتوانم در آنها کار کنم
+  a-job_status: فریلنسر
+  a-the_type_of_job_in_question: برنامه
+  a-intended_income: بالای 20 میلیون تومان
+  a-cities_t_like_to_work_in: اهواز و تهران
 social_medias:
-  telegram: Telegram
-  twitter: Twitter
-  github: Github
-  glassdoor: Glassdoor
-  linkedin: Linkedin
-  a-github:  https://github.com/danielhr2001, "danielhr2001"
-
+  telegram: تلگرام
+  twitter: توییتر
+  github: گیتهاب
+  glassdoor: گلس دور
+  linkedin: لینکدین
+  a-github: https://github.com/danielhr2001, "danielhr2001"
