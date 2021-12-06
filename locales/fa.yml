@@ -15,8 +15,8 @@ header_menus:
   personal_info: اطلاعات شخصی
 personal_info:
   contact_info: تماس
-  personal_info: فردی
-  employment_status: وضعیت شغلی
+  personal: فردی
+  job_status: وضعیت شغلی
   social_medias: شبکه های اجتماعی
 skills:
   soft_skills: مهارت های نرم
@@ -26,8 +26,8 @@ contact_info:
   address: آدرس
   phone: شماره موبایل
   email: ایمیل
-  a-address: ایران - استان خوزستان - شهر اهواز - خیابان 16 پادادشهر
-  a-phone: +989019167289
+  a-address: ایران - استان خوزستان - شهر اهواز 
+  a-phone: 989019167289+
 personal:
   age: سن
   gender: جنسیت

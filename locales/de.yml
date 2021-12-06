@@ -21,8 +21,8 @@ header_menus:
   personal-info: PersönlicheInformationen
 personal_info:
   contact_info: Kontaktinformationen
-  personal_info: persönliche
-  employment_status: Beschäftigungsstatus
+  personal: persönliche
+  job_status: Beschäftigungsstatus
   social_medias: soziale Medien
 skills:
   soft_skills: Soft Skills
@@ -32,7 +32,7 @@ contact_info:
   address: Die Anschrift
   phone: Telefonnummer
   email: Email
-  a-address: Padadshahr (Straße) - Ahvaz (Stadt) - Khuzestan (Provinz) - Iran
+  a-address: Ahvaz (Stadt) - Khuzestan (Provinz) - Iran
   a-phone: +989019167289
 personal:
   age: Alter
@@ -47,7 +47,7 @@ job_status:
   intended_income: Vorgesehenes Einkommen
   cities_t_like_to_work_in: Städte, in denen ich gerne arbeite
   a-job_status: Freiberufler
-  a-the_type_of_job_in_question: mittlerer Programmierer bei einem deutschen Unternehmen
+  a-the_type_of_job_in_question: mittlerer Programmierer bei einem Unternehmen
   a-intended_income: 8500 Euro
   a-cities_t_like_to_work_in: Teheran oder jede Stadt in Deutschland
 social_medias:

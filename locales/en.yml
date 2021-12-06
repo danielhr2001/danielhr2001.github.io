@@ -22,7 +22,7 @@ header_menus:
 personal_info:
   contact_info: contact info
   personal: personal info
-  employment_status: employment status
+  job_status: job status
   social_medias: social medias
 skills:
   soft_skills: soft skills
@@ -32,8 +32,7 @@ contact_info:
   address: Address
   phone: Phone_number
   email: Email
-  a-address: Padadshahr (St) - Ahvaz (City) - Khuzestan (Province) - Iran
-  a-phone: +989019167289
+  a-address: Ahvaz (City) - Khuzestan (Province) - Iran
 personal:
   age: Age
   gender: Gender

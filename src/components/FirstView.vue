@@ -38,6 +38,7 @@ const { t } = useI18n();
         font-weight: bold;
         font-size: 1.5em;
         color: #fff;
+        z-index: 1;
       }
     }
     .ball-container {

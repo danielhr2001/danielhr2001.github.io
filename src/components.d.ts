@@ -23,6 +23,7 @@ declare module 'vue' {
     README: typeof import('./components/README.md')['default']
     Skills: typeof import('./components/Skills.vue')['default']
     StaticHeader: typeof import('./components/StaticHeader.vue')['default']
+    TeqnologiesLogos: typeof import('./components/TeqnologiesLogos.vue')['default']
   }
 }
 

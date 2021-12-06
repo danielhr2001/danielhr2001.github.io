@@ -124,7 +124,7 @@ window.onclick = function (event) {
                   t('personal_info.personal')
                 }}</a>
                 <a class="dropdown-content-item" href="#">{{
-                  t('personal_info.employment_status')
+                  t('personal_info.job_status')
                 }}</a>
                 <a class="dropdown-content-item" href="#">{{
                   t('personal_info.social_medias')
@@ -166,6 +166,7 @@ window.onclick = function (event) {
   padding: 0 10%;
   position: fixed;
   width: 100%;
+  z-index: 100;
   .static-header {
     display: flex;
     justify-content: space-between;
