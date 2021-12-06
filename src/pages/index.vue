@@ -4,17 +4,17 @@ meta:
 </route>
 
 <script setup lang="ts">
-const { t } = useI18n()
+const { t } = useI18n();
 </script>
 
 <template>
-  <div class="as">
-  hello
-  </div>
+  <FirstView />
+  <PersonalInfo />
+  <Skills />
+  <Experience />
+  <Education />
+  <AboutMe />
 </template>
 
 <style lang="scss" scoped>
-.as{
-  color:red;
-}
 </style>

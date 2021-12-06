@@ -12,3 +12,18 @@ intro:
   aka: Auch bekannt als
   whats-your-name: Wie heißt du?
 not-found: Nicht gefunden
+header_menus: 
+  my_name: Daniel Hajirajabi
+  about_me: Über mich
+  education: Ausbildung
+  experience: Erfahrung
+  skills: Fähigkeiten
+  personal-info: PersönlicheInformationen
+personal_info: 
+  contact_info: Kontaktinformationen
+  personal_info: persönliche
+  employment_status: Beschäftigungsstatus
+  social_medias: soziale Medien
+skills:
+  soft_skills: Soft Skills
+  hard_skills: Schwierige Fähigkeiten

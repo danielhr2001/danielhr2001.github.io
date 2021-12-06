@@ -4,7 +4,7 @@
 // they will be rendered correctly in the html results with vite-ssg
 useHead({
   title: 'personalWeb',
-  meta: [{ name: 'description', content: 'Opinionated Vite Starter Template' }],
+  meta: [{ name: 'description', content: 'ProtofileWeb' }],
 })
 </script>
 

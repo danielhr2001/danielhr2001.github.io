@@ -1,0 +1,29 @@
+button:
+  about: درباره
+  back: عقب
+  go: برو
+  home: خانه
+  toggle_dark: حالت شب/روز
+  toggle_langs: تغییر زبان
+intro:
+  desc: Opinionated Vite Starter Template
+  dynamic-route: Demo of dynamic route
+  hi: Hi, {name}!
+  aka: Also known as
+  whats-your-name: What's your name?
+not-found: پیدا نشد
+header_menus: 
+  my_name: دانیال حاجی رجبی
+  about_me: درباره من
+  education: سوابق تحصیلی
+  experience: سوابق شغلی
+  skills: مهارت ها
+  personal_info: اطلاعات شخصی
+personal_info: 
+  contact_info: تماس
+  personal_info: فردی
+  employment_status: وضعیت شغلی
+  social_medias: شبکه های اجتماعی
+skills:
+  soft_skills: مهارت های نرم
+  hard_skills: مهارت های فنی
