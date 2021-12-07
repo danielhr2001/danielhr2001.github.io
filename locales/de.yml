@@ -5,25 +5,63 @@ button:
   home: Startseite
   toggle_dark: Dunkelmodus umschalten
   toggle_langs: Sprachen ändern
-intro:
-  desc: Vite Startvorlage mit Vorlieben
-  dynamic-route: Demo einer dynamischen Route
-  hi: Hi, {name}!
-  aka: Auch bekannt als
-  whats-your-name: Wie heißt du?
 not-found: Nicht gefunden
-header_menus: 
+header_menus:
   my_name: Daniel Hajirajabi
   about_me: Über mich
   education: Ausbildung
   experience: Erfahrung
   skills: Fähigkeiten
   personal-info: PersönlicheInformationen
-personal_info: 
+personal_info:
   contact_info: Kontaktinformationen
-  personal_info: persönliche
-  employment_status: Beschäftigungsstatus
+  personal: persönliche
+  job_status: Beschäftigungsstatus
   social_medias: soziale Medien
 skills:
   soft_skills: Soft Skills
   hard_skills: Schwierige Fähigkeiten
+backend_developer: BackEnd-Entwickler
+contact_info:
+  address: Die Anschrift
+  phone: Telefonnummer
+  email: Email
+  a-address: Ahvaz (Stadt) - Khuzestan (Provinz) - Iran
+  a-phone: +989019167289
+personal:
+  age: Alter
+  gender: Geschlecht
+  marital_status: Familienstand
+  a-age: Ich bin 2001 geboren
+  a-gender: männlich
+  a-marital_status: Einzel
+job_status:
+  job_status: Beruflicher Status
+  the_type_of_job_in_question: Die Art der fraglichen Stelle
+  intended_income: Vorgesehenes Einkommen
+  cities_t_like_to_work_in: Städte, in denen ich gerne arbeite
+  a-job_status: Freiberufler
+  a-the_type_of_job_in_question: mittlerer Programmierer bei einem Unternehmen
+  a-intended_income: 8500 Euro
+  a-cities_t_like_to_work_in: Teheran oder jede Stadt in Deutschland
+social_medias:
+  telegram: Telegramm
+  twitter: Twitter
+  github: Github
+  glassdoor: Glassdoor
+  linkedin: Linkedin
+  a-github: https://github.com/danielhr2001, "danielhr2001"
+soft_skills:
+  sympathy: Sympathie
+  problem-solving: Problemlösende Fähigkeiten
+  self_confidence: Selbstvertrauen
+  self-awareness: Selbstbewusstsein
+  self_knowledge: Selbsterkenntnis
+  leadership: Führung
+  conflict_resolution: Konfliktlösung
+  crisis_management: Krisenmanagement
+  the_power_to_influence_others: Die Macht, andere zu beeinflussen
+  creativity_and_idea_generation: Kreativität und Ideenfindung
+  responsibility: Verantwortung
+  decision-making_power: Entscheidungsmacht
+  team_work: Zusammenarbeit

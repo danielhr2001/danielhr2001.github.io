@@ -5,25 +5,63 @@ button:
   home: خانه
   toggle_dark: حالت شب/روز
   toggle_langs: تغییر زبان
-intro:
-  desc: Opinionated Vite Starter Template
-  dynamic-route: Demo of dynamic route
-  hi: Hi, {name}!
-  aka: Also known as
-  whats-your-name: What's your name?
 not-found: پیدا نشد
-header_menus: 
+header_menus:
   my_name: دانیال حاجی رجبی
   about_me: درباره من
   education: سوابق تحصیلی
   experience: سوابق شغلی
   skills: مهارت ها
   personal_info: اطلاعات شخصی
-personal_info: 
+personal_info:
   contact_info: تماس
-  personal_info: فردی
-  employment_status: وضعیت شغلی
+  personal: فردی
+  job_status: وضعیت شغلی
   social_medias: شبکه های اجتماعی
 skills:
   soft_skills: مهارت های نرم
   hard_skills: مهارت های فنی
+backend_developer: وب Full-Stack توسعه دهنده
+contact_info:
+  address: آدرس
+  phone: شماره موبایل
+  email: ایمیل
+  a-address: ایران - استان خوزستان - شهر اهواز 
+  a-phone: 989019167289+
+personal:
+  age: سن
+  gender: جنسیت
+  marital_status: وضعیت تاهل
+  a-age: متولد سال 1379
+  a-gender: مرد
+  a-marital_status: مجرد و معاف دایم از سربازی
+job_status:
+  job_status: وضعیت شغلی
+  the_type_of_job_in_question: نوع شغل مدنظر
+  intended_income: درآمد مدنظر
+  cities_t_like_to_work_in: شهرهایی که میتوانم در آنها کار کنم
+  a-job_status: فریلنسر
+  a-the_type_of_job_in_question: برنامه
+  a-intended_income: بالای 20 میلیون تومان
+  a-cities_t_like_to_work_in: اهواز و تهران
+social_medias:
+  telegram: تلگرام
+  twitter: توییتر
+  github: گیتهاب
+  glassdoor: گلس دور
+  linkedin: لینکدین
+  a-github: https://github.com/danielhr2001, "danielhr2001"
+soft_skills:
+  sympathy: همدلی
+  problem-solving: مهارت حل مسئله
+  self_confidence: اعتماد به نفس
+  self-awareness: خودآگاهی
+  self_knowledge: خودشناسی
+  leadership: رهبری
+  conflict_resolution: حل تعارض
+  crisis_management: مدیریت بحران
+  the_power_to_influence_others: قدرت تاثیر گذاری بر دیگران
+  creativity_and_idea_generation: خلاقیت و ایده پردازی
+  responsibility: مسئولیت پذیری
+  decision-making_power: قدرت تصمیم گیری
+  team_work: کار تیمی

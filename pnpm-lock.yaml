@@ -42,6 +42,7 @@ specifiers:
   prettier: ^2.4.1
   pretty-quick: ^3.1.1
   prism-theme-vars: ^0.2.2
+  remixicon: ^2.5.0
   sass: ^1.43.4
   stylelint: ^14.0.1
   stylelint-config-prettier: ^9.0.3
@@ -74,6 +75,7 @@ dependencies:
   lodash-es: 4.17.21
   nprogress: 0.2.0
   pinia: 2.0.3_typescript@4.4.4+vue@3.2.21
+  remixicon: 2.5.0
   vue: 3.2.21
   vue-i18n: 9.1.9_vue@3.2.21
   vue-router: 4.0.12_vue@3.2.21
@@ -5603,6 +5605,10 @@ packages:
     resolution: {integrity: sha1-VNvzd+UUQKypCkzSdGANP/LYiKk=}
     engines: {node: '>= 0.10'}
     dev: true
+
+  /remixicon/2.5.0:
+    resolution: {integrity: sha512-q54ra2QutYDZpuSnFjmeagmEiN9IMo56/zz5dDNitzKD23oFRw77cWo4TsrAdmdkPiEn8mxlrTqxnkujDbEGww==}
+    dev: false
 
   /request-light/0.5.4:
     resolution: {integrity: sha512-t3566CMweOFlUk7Y1DJMu5OrtpoZEb6aSTsLQVT3wtrIEJ5NhcY9G/Oqxvjllzl4a15zXfFlcr9q40LbLVQJqw==}

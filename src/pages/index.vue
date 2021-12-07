@@ -3,18 +3,13 @@ meta:
   layout: home
 </route>
 
-<script setup lang="ts">
-const { t } = useI18n();
-</script>
-
 <template>
   <FirstView />
-  <PersonalInfo />
+  <PersonalInfo id="position-personal-info"/>
   <Skills />
-  <Experience />
-  <Education />
-  <AboutMe />
+  <Experience id="position-experience" />
+  <Education id="position-education" />
+  <AboutMe id="position-about-me" />
 </template>
 
-<style lang="scss" scoped>
-</style>
+<style lang="scss" scoped></style>
