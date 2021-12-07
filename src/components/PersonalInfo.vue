@@ -5,12 +5,6 @@ export default defineComponent({
       contentItem: 'contact_info',
     };
   },
-
-  // method(){
-  //   function contact_info(){
-  //     $data.contentItem = 'contact_info'
-  //   }
-  // },
 });
 </script>
 <script setup lang="ts">
