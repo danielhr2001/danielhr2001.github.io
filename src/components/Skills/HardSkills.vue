@@ -1,5 +1,5 @@
 <template>
-  <div class="hard-skills-container">
+  <div class="hard-skills-container" id="position-hard-skills">
     <div class="hard-skills">
       <div class="backend-skills-card-container">
         <img class="backend-skills-card" src="../../../public/backend_skills-card.svg"/>
@@ -13,11 +13,13 @@
 
 <style scoped lang="scss">
 .hard-skills-container {
+  // margin-top: 700px;
+  padding-top: 8rem;
   background-image: url('../../../public/background.svg');
   background-repeat: no-repeat;
   background-size: 100% auto;
   height: 50vw;
-  margin-bottom: 2px;
+  min-height: 900px;
   .hard-skills {
     // background-color: aqua;
     display: flex;

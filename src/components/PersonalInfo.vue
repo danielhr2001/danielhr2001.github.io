@@ -15,30 +15,12 @@ export default defineComponent({
 </script>
 <script setup lang="ts">
 const { t, locale } = useI18n();
-function contact_info() {
-  document.getElementById('contact_info-container').style.display = 'flex';
-  document.getElementById('personal-container').style.display = 'none';
-  document.getElementById('job_status-container').style.display = 'none';
-  document.getElementById('social_medias-container').style.display = 'none';
-}
-function personal() {
-  document.getElementById('contact_info-container').style.display = 'none';
-  document.getElementById('personal-container').style.display = 'flex';
-  document.getElementById('job_status-container').style.display = 'none';
-  document.getElementById('social_medias-container').style.display = 'none';
-}
-function job_status() {
-  document.getElementById('contact_info-container').style.display = 'none';
-  document.getElementById('personal-container').style.display = 'none';
-  document.getElementById('job_status-container').style.display = 'flex';
-  document.getElementById('social_medias-container').style.display = 'none';
-}
-function social_medias() {
-  document.getElementById('contact_info-container').style.display = 'none';
-  document.getElementById('personal-container').style.display = 'none';
-  document.getElementById('job_status-container').style.display = 'none';
-  document.getElementById('social_medias-container').style.display = 'flex';
-}
+import {
+  contact_info,
+  personal,
+  job_status,
+  social_medias
+} from '@/logic/personalInfoTabs';
 </script>
 
 <template>
@@ -205,7 +187,7 @@ function social_medias() {
               
               <span class="question">{{ t('social_medias.github') }}</span> :
                 
-                <span class="answer">{{ t('social_medias.a-github') }}</span>
+                <a href="https://github.com/danielhr2001"><span class="answer" style="color:#6C63FF">{{ t('social_medias.a-github') }}</span></a>
               
               <span class="question">{{ t('social_medias.glassdoor') }}</span> :
                 
@@ -227,7 +209,7 @@ function social_medias() {
               
               <span class="question">{{ t('social_medias.github') }}</span> :
                 
-                <a href="https://github.com/danielhr2001"><span class="answer" style="color:#6C63FF">{{ t('social_medias.a-github') }}</span></a><span></span>
+                <a href="https://github.com/danielhr2001"><span class="answer" style="color:#6C63FF">{{ t('social_medias.a-github') }}</span></a>
               
               <span class="question">{{ t('social_medias.glassdoor') }}</span> :
                 
@@ -259,6 +241,7 @@ function social_medias() {
   background-size: 100% auto;
   height: 50vw;
   color: #fff;
+  padding-top: 8rem;
   .personal-info {
     display: block;
     margin: 0 auto;

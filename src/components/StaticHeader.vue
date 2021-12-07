@@ -11,6 +11,12 @@ export default defineComponent({
 });
 </script>
 <script setup lang="ts">
+import {
+  contact_info,
+  personal,
+  job_status,
+  social_medias,
+} from '@/logic/personalInfoTabs';
 import { isDark, toggleDark } from '@/logic';
 
 const { t, availableLocales, locale } = useI18n();
@@ -82,7 +88,11 @@ window.onclick = function (event) {
       <div class="right-side">
         <div class="header-meun-items">
           <nav>
-            <a class="header-meun-item" href="#" id="experience">
+            <a
+              class="header-meun-item"
+              href="#position-experience"
+              id="experience"
+            >
               {{ t('header_menus.experience') }}
             </a>
             <div class="header-meun-item dropdown" id="skills">
@@ -94,15 +104,19 @@ window.onclick = function (event) {
                 id="skillDropdown"
                 class="dropdown-content-skills dropdown-content"
               >
-                <a class="dropdown-content-item" href="#">{{
+                <a class="dropdown-content-item" href="#position-soft-skills">{{
                   t('skills.soft_skills')
                 }}</a>
-                <a class="dropdown-content-item" href="#">{{
+                <a class="dropdown-content-item" href="#position-hard-skills">{{
                   t('skills.hard_skills')
                 }}</a>
               </div>
             </div>
-            <a class="header-meun-item" href="#" id="about_me">
+            <a
+              class="header-meun-item"
+              href="##position-about-me"
+              id="about_me"
+            >
               {{ t('header_menus.about_me') }}
             </a>
             <div class="header-meun-item dropdown" id="personal_info">
@@ -117,21 +131,37 @@ window.onclick = function (event) {
                 id="personalinfoDropdown"
                 class="dropdown-content-personalinfo dropdown-content"
               >
-                <a class="dropdown-content-item" href="#">{{
-                  t('personal_info.contact_info')
-                }}</a>
-                <a class="dropdown-content-item" href="#">{{
-                  t('personal_info.personal')
-                }}</a>
-                <a class="dropdown-content-item" href="#">{{
-                  t('personal_info.job_status')
-                }}</a>
-                <a class="dropdown-content-item" href="#">{{
-                  t('personal_info.social_medias')
-                }}</a>
+                <a
+                  class="dropdown-content-item"
+                  href="#position-personal-info"
+                  @click="contact_info"
+                  >{{ t('personal_info.contact_info') }}</a
+                >
+                <a
+                  class="dropdown-content-item"
+                  href="#position-personal-info"
+                  @click="personal"
+                  >{{ t('personal_info.personal') }}</a
+                >
+                <a
+                  class="dropdown-content-item"
+                  href="#position-personal-info"
+                  @click="job_status"
+                  >{{ t('personal_info.job_status') }}</a
+                >
+                <a
+                  class="dropdown-content-item"
+                  href="#position-personal-info"
+                  @click="social_medias"
+                  >{{ t('personal_info.social_medias') }}</a
+                >
               </div>
             </div>
-            <a class="header-meun-item" href="#" id="education">
+            <a
+              class="header-meun-item"
+              href="#position-education"
+              id="education"
+            >
               {{ t('header_menus.education') }}
             </a>
           </nav>

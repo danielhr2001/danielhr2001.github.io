@@ -3,7 +3,7 @@ const { t } = useI18n();
 </script>
 
 <template>
-  <div class="soft-skills-container">
+  <div class="soft-skills-container" id="position-soft-skills">
     <div class="soft-skills">
       <div class="soft-skills-item">{{ t('soft_skills.sympathy') }}</div>
       <div class="soft-skills-item">{{ t('soft_skills.problem-solving') }}</div>
@@ -24,11 +24,11 @@ const { t } = useI18n();
 
 <style scoped lang="scss">
 .soft-skills-container {
-  margin-top: 2px;
   background-image: url('../../../public/background.svg');
   background-repeat: no-repeat;
   background-size: 100% auto;
   height: 30vw;
+  padding-top: 8rem;
   .soft-skills {
     display: grid;
     grid-template-columns: auto auto auto auto auto;
