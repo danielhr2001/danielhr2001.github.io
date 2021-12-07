@@ -17,6 +17,7 @@
   background-repeat: no-repeat;
   background-size: 100% auto;
   height: 50vw;
+  margin-bottom: 2px;
   .hard-skills {
     // background-color: aqua;
     display: flex;
