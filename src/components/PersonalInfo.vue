@@ -227,7 +227,7 @@ function social_medias() {
               
               <span class="question">{{ t('social_medias.github') }}</span> :
                 
-                <span class="answer">{{ t('social_medias.a-github') }}</span>
+                <a href="https://github.com/danielhr2001"><span class="answer" style="color:#6C63FF">{{ t('social_medias.a-github') }}</span></a><span></span>
               
               <span class="question">{{ t('social_medias.glassdoor') }}</span> :
                 
@@ -257,8 +257,7 @@ function social_medias() {
   background-image: url('../../public/background.svg');
   background-repeat: no-repeat;
   background-size: 100% auto;
-  background-color: #10102d;
-  height: 60vw;
+  height: 50vw;
   color: #fff;
   .personal-info {
     display: block;

@@ -8,7 +8,7 @@ const { t } = useI18n();
       <div class="web-designer-container">
         <img id="web-designer" src="../../public/webDesigner.svg" />
         <span id="text">
-          {{ t('web_full-stack_developer') }}
+          {{ t('backend_developer') }}
         </span>
       </div>
       <div class="ball-container">
@@ -23,7 +23,6 @@ const { t } = useI18n();
   background-image: url('../../public/background-firstView.svg');
   background-repeat: no-repeat;
   background-size: 100% auto;
-  background-color: #10102d;
   height: 60vw;
   .first-view {
     .web-designer-container {

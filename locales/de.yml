@@ -5,12 +5,6 @@ button:
   home: Startseite
   toggle_dark: Dunkelmodus umschalten
   toggle_langs: Sprachen ändern
-intro:
-  desc: Vite Startvorlage mit Vorlieben
-  dynamic-route: Demo einer dynamischen Route
-  hi: Hi, {name}!
-  aka: Auch bekannt als
-  whats-your-name: Wie heißt du?
 not-found: Nicht gefunden
 header_menus:
   my_name: Daniel Hajirajabi
@@ -27,7 +21,7 @@ personal_info:
 skills:
   soft_skills: Soft Skills
   hard_skills: Schwierige Fähigkeiten
-web_full-stack_developer: Web-Full-Stack-Entwickler
+backend_developer: BackEnd-Entwickler
 contact_info:
   address: Die Anschrift
   phone: Telefonnummer

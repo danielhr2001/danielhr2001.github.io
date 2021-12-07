@@ -18,10 +18,12 @@ declare module 'vue' {
     FirstView: typeof import('./components/FirstView.vue')['default']
     FixHeader: typeof import('./components/FixHeader.vue')['default']
     Footer: typeof import('./components/Footer.vue')['default']
+    HardSkills: typeof import('./components/Skills/HardSkills.vue')['default']
     Header: typeof import('./components/Header.vue')['default']
     PersonalInfo: typeof import('./components/PersonalInfo.vue')['default']
     README: typeof import('./components/README.md')['default']
     Skills: typeof import('./components/Skills.vue')['default']
+    SoftSkills: typeof import('./components/Skills/SoftSkills.vue')['default']
     StaticHeader: typeof import('./components/StaticHeader.vue')['default']
     TeqnologiesLogos: typeof import('./components/TeqnologiesLogos.vue')['default']
   }
