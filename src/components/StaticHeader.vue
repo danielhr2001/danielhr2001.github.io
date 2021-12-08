@@ -167,7 +167,7 @@ window.onclick = function (event) {
           </nav>
         </div>
 
-        <div class="dark-mode-button-container">
+        <!-- <div class="dark-mode-button-container">
           <button
             class="icon-btn mx-2 !outline-none"
             :title="t('button.toggle_dark')"
@@ -176,7 +176,7 @@ window.onclick = function (event) {
             <carbon-moon v-if="isDark" />
             <carbon-sun v-else />
           </button>
-        </div>
+        </div> -->
         <div class="lang-button-container">
           <button
             class="lang-button"
@@ -267,6 +267,7 @@ window.onclick = function (event) {
       align-items: center;
     }
     .lang-button-container {
+      margin-left: .5vw;
       .lang-button {
         padding: 0.5em;
         border-radius: 20%;

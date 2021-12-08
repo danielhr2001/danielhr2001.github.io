@@ -24,11 +24,9 @@ const { t } = useI18n();
 
 <style scoped lang="scss">
 .soft-skills-container {
-  background-image: url('../../../public/background.svg');
-  background-repeat: no-repeat;
-  background-size: 100% auto;
   height: 30vw;
   padding-top: 8rem;
+  min-height: 540px;
   .soft-skills {
     display: grid;
     grid-template-columns: auto auto auto auto auto;

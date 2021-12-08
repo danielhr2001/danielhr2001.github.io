@@ -65,3 +65,55 @@ soft_skills:
   responsibility: Verantwortung
   decision-making_power: Entscheidungsmacht
   team_work: Zusammenarbeit
+education:
+  education:
+    education: Ausbildung
+    high_school_name: High school name
+    location: Standort
+    certificate: Zertifikat
+    grade: Grad
+    field_of_study : Forschungsbereich
+  university:
+    university: Universität
+    university_name: Name der Universität
+    location: Standort
+    certificate: Zertifikat
+    field_of_study : Forschungsbereich
+  talaye-daran:
+    a-hight_school_name: Talayedaran
+    a-location: Ahvaz (Stadt), Chuzestan (Provinz), Iran
+    a-certificate: Diplom
+    a-grade: 18.5/20
+    a-field_of_study : Mathematik und Physik
+    a-date: Sep 2016 - May 2019
+  jondi-shapoor:
+    a-university_name: Jondi-Shapoor
+    a-location: Dezful (Stadt), Chuzestan (Provinz), Iran
+    a-certificate: Bachelor-Abschluss
+    a-field_of_study : Technische Informatik
+    a-date: Sep 2019 - Sep 2020 (an Payame-Noor überwiesen)
+  payan-noor:
+    a-university_name: Payame-Noor
+    a-location: Ahvaz (Stadt), Chuzestan (Provinz), Iran
+    a-certificate: Bachelor-Abschluss
+    a-field_of_study : Technische Informatik
+    a-date: Sep 2021 - heute
+experience:
+  job-experience: Berufserfahrung
+  freelancing:
+    type: Typ
+    location: Standort
+    a-type: Freelancing
+    a-location: Mein Zuhause!
+    a-date: Nov 2021 - heute
+  startup:
+    type: Typ
+    subject: Gegenstand
+    location: Standort
+    my_role: Meine Rolle
+    a-type: Anlaufen
+    a-subject: Gestaltung einer Plattform, um Beziehungen zwischen Universitäten herzustellen.
+    a-location: Ahvaz (Stadt), Chuzestan (Provinz), Iran
+    a-my_role: Full-Stack-Entwickler
+    a-date: Feb 2021 - Nov 2021 (Gescheitert)
+footer_text: Entworfen von Daniel HajiRajabi
