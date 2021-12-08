@@ -65,3 +65,55 @@ soft_skills:
   responsibility: مسئولیت پذیری
   decision-making_power: قدرت تصمیم گیری
   team_work: کار تیمی
+education:
+  education:
+    education: تحصیلات دوران مدرسه
+    high_school_name: نام دبیرستان متوسطه دوم
+    location: آدرس
+    certificate: مقطع
+    grade: نمره
+    field_of_study : رشته
+  university:
+    university: تحصیلات دوره عالی
+    university_name: دانشگاه
+    location: آدرس
+    certificate: مقطع
+    field_of_study : رشته
+  talaye-daran:
+    a-hight_school_name: طلایه داران
+    a-location: ایران - استان خوزستان - شهر اهواز
+    a-certificate: دیپلم
+    a-grade: 18.5
+    a-field_of_study : ریاضی و فیزیک
+    a-date: مهر 1395 - خرداد 1398
+  jondi-shapoor:
+    a-university_name: جندی شاپور
+    a-location: ایران - استان خوزستان - شهر دزفول
+    a-certificate: کارشناسی
+    a-field_of_study : مهندسی کامپیوتر
+    a-date: مهر 1398 - مهر 1399 (انصراف از دانشگاه)
+  payan-noor:
+    a-university_name: پیام نور
+    a-location: ایران - استان خوزستان - شهر اهواز
+    a-certificate: دیپلم
+    a-field_of_study : مهندسی کامپیوتر
+    a-date: مهر1400 - اکنون
+experience:
+  job-experience: تجربه کاری
+  freelancing:
+    type: نوع
+    location: آدرس
+    a-type: فری لنسری
+    a-location: خونه!
+    a-date: آبان 1400 - اکنون
+  startup:
+    type: نوع
+    subject: موضوع
+    location: آدرس
+    my_role: نقش من
+    a-type: استارتاپ
+    a-subject: طراحی پلتفرمی برای ارتباط بین دانشگاه ها
+    a-location: ایران - استان خوزستان - شهر اهواز
+    a-my_role: برنامه نویس Full-Stack
+    a-date: اسفند 1399 - آبان 1400 (فعلا متوقف شده)
+footer_text: طراح دانیال حاجی رجبی

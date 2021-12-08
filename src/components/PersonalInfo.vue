@@ -230,12 +230,10 @@ import {
 
 <style scoped lang="scss">
 .personal-info-container {
-  background-image: url('../../public/background.svg');
-  background-repeat: no-repeat;
-  background-size: 100% auto;
   height: 50vw;
   color: #fff;
   padding-top: 8rem;
+  min-height: 800px;
   .personal-info {
     display: block;
     margin: 0 auto;

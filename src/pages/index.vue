@@ -4,12 +4,19 @@ meta:
 </route>
 
 <template>
+  <div class="index">
   <FirstView />
   <PersonalInfo id="position-personal-info"/>
   <Skills />
-  <Experience id="position-experience" />
   <Education id="position-education" />
+  <Experience id="position-experience" />
   <AboutMe id="position-about-me" />
+  </div>
 </template>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+.index{
+  background-image: url('../../../public/background.svg');
+  background-size: 100% auto;
+}
+  </style>

@@ -13,11 +13,7 @@
 
 <style scoped lang="scss">
 .hard-skills-container {
-  // margin-top: 700px;
   padding-top: 8rem;
-  background-image: url('../../../public/background.svg');
-  background-repeat: no-repeat;
-  background-size: 100% auto;
   height: 50vw;
   min-height: 900px;
   .hard-skills {
