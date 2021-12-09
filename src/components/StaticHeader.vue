@@ -112,11 +112,7 @@ window.onclick = function (event) {
                 }}</a>
               </div>
             </div>
-            <a
-              class="header-meun-item"
-              href="##position-about-me"
-              id="about_me"
-            >
+            <a class="header-meun-item" href="#position-about-me" id="about_me">
               {{ t('header_menus.about_me') }}
             </a>
             <div class="header-meun-item dropdown" id="personal_info">
@@ -267,7 +263,7 @@ window.onclick = function (event) {
       align-items: center;
     }
     .lang-button-container {
-      margin-left: .5vw;
+      margin-left: 0.5vw;
       .lang-button {
         padding: 0.5em;
         border-radius: 20%;
