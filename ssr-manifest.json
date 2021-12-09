@@ -12,7 +12,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "locales/de.yml": [
     "/assets/freelancer.f098216d.svg",
@@ -27,7 +32,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "locales/en.yml": [
     "/assets/freelancer.f098216d.svg",
@@ -42,7 +52,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "locales/fa.yml": [
     "/assets/freelancer.f098216d.svg",
@@ -57,7 +72,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "src/plugins/i18n.ts": [
     "/assets/freelancer.f098216d.svg",
@@ -72,7 +92,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "src/plugins/nprogress.ts": [
     "/assets/freelancer.f098216d.svg",
@@ -87,7 +112,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "src/plugins/pinia.ts": [
     "/assets/freelancer.f098216d.svg",
@@ -102,7 +132,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "vite/preload-helper": [
     "/assets/freelancer.f098216d.svg",
@@ -117,7 +152,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "src/plugins/pwa.ts": [
     "/assets/freelancer.f098216d.svg",
@@ -132,7 +172,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "src/components/AboutMe.vue": [
     "/assets/freelancer.f098216d.svg",
@@ -147,7 +192,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "public/freelancer.svg": [
     "/assets/freelancer.f098216d.svg",
@@ -162,7 +212,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "public/startup-team.svg": [
     "/assets/freelancer.f098216d.svg",
@@ -177,7 +232,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "src/components/Experience.vue?vue&type=style&index=0&scoped=true&lang.scss": [
     "/assets/freelancer.f098216d.svg",
@@ -192,7 +252,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "plugin-vue:export-helper": [
     "/assets/freelancer.f098216d.svg",
@@ -207,7 +272,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "src/components/Experience.vue": [
     "/assets/freelancer.f098216d.svg",
@@ -222,7 +292,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "public/university.svg": [
     "/assets/freelancer.f098216d.svg",
@@ -237,7 +312,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "public/school.svg": [
     "/assets/freelancer.f098216d.svg",
@@ -252,7 +332,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "src/components/Education.vue?vue&type=style&index=0&scoped=true&lang.scss": [
     "/assets/freelancer.f098216d.svg",
@@ -267,7 +352,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "src/components/Education.vue": [
     "/assets/freelancer.f098216d.svg",
@@ -282,7 +372,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "public/backend_skills-card.svg": [
     "/assets/freelancer.f098216d.svg",
@@ -297,7 +392,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "public/frontend_skills-card.svg": [
     "/assets/freelancer.f098216d.svg",
@@ -312,7 +412,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "src/components/Skills/HardSkills.vue?vue&type=style&index=0&scoped=true&lang.scss": [
     "/assets/freelancer.f098216d.svg",
@@ -327,7 +432,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "src/components/Skills/HardSkills.vue": [
     "/assets/freelancer.f098216d.svg",
@@ -342,7 +452,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "src/components/Skills/SoftSkills.vue?vue&type=style&index=0&scoped=true&lang.scss": [
     "/assets/freelancer.f098216d.svg",
@@ -357,7 +472,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "src/components/Skills/SoftSkills.vue": [
     "/assets/freelancer.f098216d.svg",
@@ -372,7 +492,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "src/components/Skills.vue": [
     "/assets/freelancer.f098216d.svg",
@@ -387,7 +512,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "public/cantact.svg": [
     "/assets/freelancer.f098216d.svg",
@@ -402,7 +532,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "public/personal_information.svg": [
     "/assets/freelancer.f098216d.svg",
@@ -417,7 +552,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "public/job.svg": [
     "/assets/freelancer.f098216d.svg",
@@ -432,7 +572,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "public/social-media.svg": [
     "/assets/freelancer.f098216d.svg",
@@ -447,7 +592,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "src/logic/personalInfoTabs.ts": [
     "/assets/freelancer.f098216d.svg",
@@ -462,7 +612,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "src/components/PersonalInfo.vue?vue&type=style&index=0&scoped=true&lang.scss": [
     "/assets/freelancer.f098216d.svg",
@@ -477,7 +632,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "src/components/PersonalInfo.vue": [
     "/assets/freelancer.f098216d.svg",
@@ -492,7 +652,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "public/webDesigner.svg": [
     "/assets/freelancer.f098216d.svg",
@@ -507,7 +672,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "public/ball.png": [
     "/assets/freelancer.f098216d.svg",
@@ -522,7 +692,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "src/components/FirstView.vue?vue&type=style&index=0&scoped=true&lang.scss": [
     "/assets/freelancer.f098216d.svg",
@@ -537,7 +712,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "src/components/FirstView.vue": [
     "/assets/freelancer.f098216d.svg",
@@ -552,7 +732,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "src/pages/index.vue?vue&type=style&index=0&scoped=true&lang.scss": [
     "/assets/freelancer.f098216d.svg",
@@ -567,7 +752,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "src/pages/index.vue?vue&type=route&index=0&lang.yaml": [
     "/assets/freelancer.f098216d.svg",
@@ -582,7 +772,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "src/pages/index.vue": [
     "/assets/freelancer.f098216d.svg",
@@ -597,7 +792,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "../../../../../@vite-plugin-pages/generated-pages": [
     "/assets/freelancer.f098216d.svg",
@@ -612,7 +812,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "src/components/Footer.vue?vue&type=style&index=0&scoped=true&lang.scss": [
     "/assets/freelancer.f098216d.svg",
@@ -627,7 +832,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "src/components/Footer.vue": [
     "/assets/freelancer.f098216d.svg",
@@ -642,7 +852,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "src/layouts/default.vue": [
     "/assets/freelancer.f098216d.svg",
@@ -657,7 +872,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "../../../../../@vite-plugin-vue-layouts/generated-layouts": [
     "/assets/freelancer.f098216d.svg",
@@ -672,7 +892,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "src/App.vue": [
     "/assets/freelancer.f098216d.svg",
@@ -687,7 +912,32 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
+  ],
+  "node_modules/.pnpm/remixicon@2.5.0/node_modules/remixicon/fonts/remixicon.css": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "../../../../../@windicss/windi-base.css": [
     "/assets/freelancer.f098216d.svg",
@@ -702,7 +952,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "../../../../../@windicss/windi-components.css": [
     "/assets/freelancer.f098216d.svg",
@@ -717,7 +972,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "src/styles/main.scss": [
     "/assets/freelancer.f098216d.svg",
@@ -732,7 +992,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "../../../../../@windicss/windi-utilities.css": [
     "/assets/freelancer.f098216d.svg",
@@ -747,7 +1012,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "src/main.ts": [
     "/assets/freelancer.f098216d.svg",
@@ -762,7 +1032,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "index.html": [
     "/assets/freelancer.f098216d.svg",
@@ -777,7 +1052,12 @@
     "/assets/social-media.2e4cfe4c.svg",
     "/assets/webDesigner.d2f4d5dd.svg",
     "/assets/ball.7230db47.png",
-    "/assets/background-firstView.ad5ccddc.svg"
+    "/assets/background-firstView.ad5ccddc.svg",
+    "/assets/remixicon.64bb3a0f.eot",
+    "/assets/remixicon.e61f0d10.woff2",
+    "/assets/remixicon.c2dacfbc.woff",
+    "/assets/remixicon.0ac8bc3c.ttf",
+    "/assets/remixicon.a10268fe.svg"
   ],
   "node_modules/.pnpm/@intlify+shared@9.1.9/node_modules/@intlify/shared/dist/shared.esm-bundler.js": [
     "/assets/vendor.c9dd930a.js"
@@ -906,23 +1186,23 @@
     "/assets/404.d0dfa2a9.js"
   ],
   "public/my-photo.svg": [
-    "/assets/home.02d53c25.js",
-    "/assets/home.a9a7b9d4.css",
+    "/assets/home.de065d06.js",
+    "/assets/home.bedcb19b.css",
     "/assets/my-photo.f56243cf.svg"
   ],
   "src/components/StaticHeader.vue?vue&type=style&index=0&scoped=true&lang.scss": [
-    "/assets/home.02d53c25.js",
-    "/assets/home.a9a7b9d4.css",
+    "/assets/home.de065d06.js",
+    "/assets/home.bedcb19b.css",
     "/assets/my-photo.f56243cf.svg"
   ],
   "src/components/StaticHeader.vue": [
-    "/assets/home.02d53c25.js",
-    "/assets/home.a9a7b9d4.css",
+    "/assets/home.de065d06.js",
+    "/assets/home.bedcb19b.css",
     "/assets/my-photo.f56243cf.svg"
   ],
   "src/layouts/home.vue": [
-    "/assets/home.02d53c25.js",
-    "/assets/home.a9a7b9d4.css",
+    "/assets/home.de065d06.js",
+    "/assets/home.bedcb19b.css",
     "/assets/my-photo.f56243cf.svg"
   ]
 }
