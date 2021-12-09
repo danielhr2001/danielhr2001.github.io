@@ -26,7 +26,7 @@ contact_info:
   address: آدرس
   phone: شماره موبایل
   email: ایمیل
-  a-address: ایران - استان خوزستان - شهر اهواز 
+  a-address: ایران - استان خوزستان - شهر اهواز
   a-phone: 989019167289+
 personal:
   age: سن
@@ -39,7 +39,7 @@ job_status:
   job_status: وضعیت شغلی
   the_type_of_job_in_question: نوع شغل مدنظر
   intended_income: درآمد مدنظر
-  cities_t_like_to_work_in: شهرهایی که میتوانم در آنها کار کنم
+  cities_i_like_to_work_in: شهرهایی که میتوانم در آنها کار کنم
   a-job_status: فریلنسر
   a-the_type_of_job_in_question: برنامه
   a-intended_income: بالای 20 میلیون تومان
@@ -72,31 +72,31 @@ education:
     location: آدرس
     certificate: مقطع
     grade: نمره
-    field_of_study : رشته
+    field_of_study: رشته
   university:
     university: تحصیلات دوره عالی
     university_name: دانشگاه
     location: آدرس
     certificate: مقطع
-    field_of_study : رشته
+    field_of_study: رشته
   talaye-daran:
     a-hight_school_name: طلایه داران
     a-location: ایران - استان خوزستان - شهر اهواز
     a-certificate: دیپلم
     a-grade: 18.5
-    a-field_of_study : ریاضی و فیزیک
+    a-field_of_study: ریاضی و فیزیک
     a-date: مهر 1395 - خرداد 1398
   jondi-shapoor:
     a-university_name: جندی شاپور
     a-location: ایران - استان خوزستان - شهر دزفول
     a-certificate: کارشناسی
-    a-field_of_study : مهندسی کامپیوتر
+    a-field_of_study: مهندسی کامپیوتر
     a-date: مهر 1398 - مهر 1399 (انصراف از دانشگاه)
   payan-noor:
     a-university_name: پیام نور
     a-location: ایران - استان خوزستان - شهر اهواز
     a-certificate: دیپلم
-    a-field_of_study : مهندسی کامپیوتر
+    a-field_of_study: مهندسی کامپیوتر
     a-date: مهر1400 - اکنون
 experience:
   job-experience: تجربه کاری

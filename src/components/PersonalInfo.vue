@@ -1,12 +1,3 @@
-<script lang="ts">
-export default defineComponent({
-  data() {
-    return {
-      contentItem: 'contact_info',
-    };
-  },
-});
-</script>
 <script setup lang="ts">
 const { t, locale } = useI18n();
 import {
@@ -44,33 +35,8 @@ import {
       </div>
       <div class="content-container">
         <div id="contact_info-container" class="content">
-          <div class="texts-containers">
-            <p v-if="locale == 'fa'" class="text" style="direction: rtl">
-              <span class="question">{{ t('contact_info.address') }}</span> :
-
-              <br /><br /><span class="answer">{{
-                t('contact_info.a-address')
-              }}</span>
-
-              <br /><br /><span class="question">{{
-                t('contact_info.phone')
-              }}</span>
-              :
-
-              <br /><br /><span class="answer">{{
-                t('contact_info.a-phone')
-              }}</span>
-
-              <br /><br /><span class="question">{{
-                t('contact_info.email')
-              }}</span>
-              :
-
-              <br /><br /><span class="answer"
-                >Danial.hajirajabi.79@gmail.com</span
-              >
-            </p>
-            <p v-else class="text">
+          <div class="texts-containers-personal-info">
+            <p>
               <span class="question">{{ t('contact_info.address') }}</span> :
 
               <br /><br /><span class="answer">{{
@@ -99,26 +65,8 @@ import {
           </div>
         </div>
         <div id="personal-container" class="content" style="display: none">
-          <div class="texts-containers">
-            <p v-if="locale == 'fa'" class="text" style="direction: rtl">
-              <span class="question">{{ t('personal.age') }}</span> :
-
-              <br /><br />
-              <span class="answer">{{ t('personal.a-age') }}</span>
-
-              <br /><br />
-              <span class="question">{{ t('personal.gender') }}</span> :
-
-              <br /><br />
-              <span class="answer">{{ t('personal.a-gender') }}</span>
-
-              <br /><br />
-              <span class="question">{{ t('personal.marital_status') }}</span> :
-
-              <br /><br />
-              <span class="answer">{{ t('personal.a-marital_status') }}</span>
-            </p>
-            <p v-else class="text">
+          <div class="texts-containers-personal-info">
+            <p>
               <span class="question">{{ t('personal.age') }}</span> :
 
               <br /><br />
@@ -146,47 +94,8 @@ import {
           </div>
         </div>
         <div id="job_status-container" class="content" style="display: none">
-          <div class="texts-containers">
-            <p v-if="locale == 'fa'" class="text" style="direction: rtl">
-              <span class="question">{{ t('job_status.job_status') }}</span> :
-
-              <br /><br />
-              <span class="answer">{{ t('job_status.a-job_status') }}</span>
-
-              <br /><br />
-              <span class="question">{{
-                t('job_status.the_type_of_job_in_question')
-              }}</span>
-              :
-
-              <br /><br />
-              <span class="answer">{{
-                t('job_status.a-the_type_of_job_in_question')
-              }}</span>
-
-              <br /><br />
-              <span class="question">{{
-                t('job_status.intended_income')
-              }}</span>
-              :
-
-              <br /><br />
-              <span class="answer">{{
-                t('job_status.a-intended_income')
-              }}</span>
-
-              <br /><br />
-              <span class="question">{{
-                t('job_status.cities_i_like_to_work_in')
-              }}</span>
-              :
-
-              <br /><br />
-              <span class="answer">{{
-                t('job_status.a-cities_t_like_to_work_in')
-              }}</span>
-            </p>
-            <p v-else class="text">
+          <div class="texts-containers-personal-info">
+            <p>
               <span class="question">{{ t('job_status.job_status') }}</span> :
 
               <br /><br />
@@ -235,42 +144,8 @@ import {
           </div>
         </div>
         <div id="social_medias-container" class="content" style="display: none">
-          <div class="texts-containers">
-            <p v-if="locale == 'fa'" class="text" style="direction: rtl">
-              <span class="question">{{ t('social_medias.telegram') }}</span> :
-
-              <br /><br />
-              <span class="answer">@Haji_rajabi</span>
-
-              <br /><br />
-              <span class="question">{{ t('social_medias.twitter') }}</span> :
-
-              <br /><br />
-              <span class="answer">@Daniyal_Iran79</span>
-
-              <br /><br />
-              <span class="question">{{ t('social_medias.github') }}</span> :
-
-              <br /><br />
-              <a href="https://github.com/danielhr2001"
-                ><span class="answer" style="color: #6c63ff">{{
-                  t('social_medias.a-github')
-                }}</span></a
-              >
-
-              <br /><br />
-              <span class="question">{{ t('social_medias.glassdoor') }}</span> :
-
-              <br /><br />
-              <span class="answer">Danial Hajirajabi</span>
-
-              <br /><br />
-              <span class="question">{{ t('social_medias.linkedin') }}</span> :
-
-              <br /><br />
-              <span class="answer">Danial Hajirajabi</span>
-            </p>
-            <p v-else class="text">
+          <div class="texts-containers-personal-info">
+            <p>
               <span class="question">{{ t('social_medias.telegram') }}</span> :
 
               <br /><br />
@@ -368,7 +243,7 @@ import {
         justify-content: center;
         width: 67%;
         // background-color: red;
-        .texts-containers {
+        .texts-containers-personal-info {
           width: 50%;
           z-index: 20;
           display: flex;
