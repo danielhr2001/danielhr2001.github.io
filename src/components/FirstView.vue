@@ -24,6 +24,7 @@ const { t } = useI18n();
   background-repeat: no-repeat;
   background-size: 100% auto;
   height: 60vw;
+  padding-top: 4rem;
   .first-view {
     .web-designer-container {
       display: flex;

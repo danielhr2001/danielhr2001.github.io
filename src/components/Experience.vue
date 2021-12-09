@@ -12,8 +12,7 @@ export default defineComponent({
         for (let i = 0; i < card_items.length; i++) {
           card_items[i].style.direction = 'rtl';
         }
-      }
-      else{
+      } else {
         for (let i = 0; i < card_items.length; i++) {
           card_items[i].style.direction = 'ltr';
         }
@@ -39,10 +38,22 @@ const { t } = useI18n();
         </div>
         <div class="txt-container">
           <p class="txt">
-            <span class="title">{{t('experience.job-experience')}}</span>
-            <br/><span class="question">{{t('experience.freelancing.type')}}</span>: <span class="answer">{{t('experience.freelancing.a-type')}}</span>
-            <br/><span class="question">{{t('experience.freelancing.location')}}</span>: <span class="answer">{{t('experience.freelancing.a-location')}}</span>
-            <br/><span class="answer">{{t('experience.freelancing.a-date')}}</span>
+            <span class="title">{{ t('experience.job-experience') }}</span>
+            <br /><span class="question">{{
+              t('experience.freelancing.type')
+            }}</span
+            >:
+            <span class="answer">{{ t('experience.freelancing.a-type') }}</span>
+            <br /><span class="question">{{
+              t('experience.freelancing.location')
+            }}</span
+            >:
+            <span class="answer">{{
+              t('experience.freelancing.a-location')
+            }}</span>
+            <br /><span class="answer">{{
+              t('experience.freelancing.a-date')
+            }}</span>
           </p>
         </div>
       </div>
@@ -56,12 +67,29 @@ const { t } = useI18n();
         </div>
         <div class="txt-container">
           <p class="txt">
-            <span class="title">{{t('experience.job-experience')}}</span>
-            <br/><span class="question">{{t('experience.startup.type')}}</span>: <span class="answer">{{t('experience.startup.a-type')}}</span>
-            <br/><span class="question">{{t('experience.startup.subject')}}</span>: <span class="answer">{{t('experience.startup.a-subject')}}</span>
-            <br/><span class="question">{{t('experience.startup.location')}}</span>: <span class="answer">{{t('experience.startup.a-location')}}</span>
-            <br/><span class="question">{{t('experience.startup.my_role')}}</span>: <span class="answer">{{t('experience.startup.a-my_role')}}</span>
-            <br/><span class="answer">{{t('experience.startup.a-date')}}</span>
+            <span class="title">{{ t('experience.job-experience') }}</span>
+            <br /><span class="question">{{
+              t('experience.startup.type')
+            }}</span
+            >: <span class="answer">{{ t('experience.startup.a-type') }}</span>
+            <br /><span class="question">{{
+              t('experience.startup.subject')
+            }}</span
+            >:
+            <span class="answer">{{ t('experience.startup.a-subject') }}</span>
+            <br /><span class="question">{{
+              t('experience.startup.location')
+            }}</span
+            >:
+            <span class="answer">{{ t('experience.startup.a-location') }}</span>
+            <br /><span class="question">{{
+              t('experience.startup.my_role')
+            }}</span
+            >:
+            <span class="answer">{{ t('experience.startup.a-my_role') }}</span>
+            <br /><span class="answer">{{
+              t('experience.startup.a-date')
+            }}</span>
           </p>
         </div>
       </div>
@@ -71,8 +99,7 @@ const { t } = useI18n();
 
 <style scoped lang="scss">
 .experience-container {
-  padding: 0 25vw;
-  padding-top: 8rem;
+  padding: 8rem 25vw;
   .experience {
     .card-items {
       display: flex;

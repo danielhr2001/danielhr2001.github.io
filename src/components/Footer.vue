@@ -12,7 +12,7 @@ const { t } = useI18n();
 <style scoped lang="scss">
 .footer-container {
   background-color: #fff;
-  margin-top: 8rem;
+
   .footer {
     display: flex;
     justify-content: center;
