@@ -42,6 +42,9 @@ function dropdownSkills() {
 function dropdownPersonalinfo() {
   document.getElementById('personalinfoDropdown').classList.toggle('show');
 }
+function dropdownMenu() {
+  document.getElementById('menuDropdown').style.display = 'flex';
+}
 
 // Close the dropdown menu if the user clicks outside of it
 window.onclick = function (event) {
@@ -67,6 +70,9 @@ window.onclick = function (event) {
       }
     }
   }
+  // if(document.getElementById('menuDropdown').style.display == 'flex'){
+  //   document.getElementById('menuDropdown').style.display = 'none';
+  // }
 };
 </script>
 
@@ -98,7 +104,7 @@ window.onclick = function (event) {
             <div class="header-meun-item dropdown" id="skills">
               <button @click="dropdownSkills" class="dropbtn-skill dropbtn">
                 {{ t('header_menus.skills') }}
-                <i class="ri-arrow-drop-down-fill arrow-drop-down"></i>
+                <i class="ri-arrow-down-s-line"></i>
               </button>
               <div
                 id="skillDropdown"
@@ -180,6 +186,22 @@ window.onclick = function (event) {
             id="next-lang"
           ></button>
         </div>
+        <div class="menu-icon-container">
+          <button class="menu-icon-btn dropbtn" @click="dropdownMenu">
+            <i class="ri-menu-line menu-icon"></i>
+          </button>
+          <div
+            id="menuDropdown"
+            class="dropdown-content-skills dropdown-content"
+          >
+            <a class="dropdown-content-item" href="#position-soft-skills">{{
+              t('skills.soft_skills')
+            }}</a>
+            <a class="dropdown-content-item" href="#position-hard-skills">{{
+              t('skills.hard_skills')
+            }}</a>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -197,78 +219,95 @@ window.onclick = function (event) {
     display: flex;
     justify-content: space-between;
     align-items: center;
-  }
-  .left-side {
-    display: flex;
-    align-items: center;
-    .profile-img-container {
-      // overflow: hidden;
-      padding: 10px;
-      #profile-img {
-        border-radius: 50%;
-        width: auto;
-        height: 4em;
-      }
-    }
-    .name-container {
-      #my-name {
-      }
-    }
-  }
-  .right-side {
-    display: flex;
-    align-items: center;
-    .header-meun-items {
-      nav {
-        .header-meun-item {
-          &:hover {
-            text-decoration: underline;
-          }
+
+    .left-side {
+      display: flex;
+      align-items: center;
+      .profile-img-container {
+        // overflow: hidden;
+        padding: 10px;
+        #profile-img {
+          border-radius: 50%;
+          width: auto;
+          height: 4em;
         }
-        .dropdown {
-          position: relative;
-          display: inline-block;
-          .dropbtn {
-            color: white;
-            padding: 16px;
-            font-size: 16px;
-            outline: none;
-            cursor: pointer;
+      }
+      .name-container {
+        #my-name {
+        }
+      }
+    }
+    .right-side {
+      display: flex;
+      align-items: center;
+      .header-meun-items {
+        nav {
+          .header-meun-item {
             &:hover {
               text-decoration: underline;
             }
-            .arrow-drop-down {
-              font-size: 123;
-            }
           }
-          .dropdown-content {
-            .dropdown-content-item {
-              color: black;
-              padding: 12px 16px;
-              text-decoration: none;
-              display: block;
+          .dropdown {
+            position: relative;
+            display: inline-block;
+            .dropbtn {
+              color: white;
+              padding: 16px;
+              font-size: 16px;
+              outline: none;
+              cursor: pointer;
+              display: flex;
+              align-items: center;
               &:hover {
-                background-color: #ddd;
+                text-decoration: underline;
+              }
+              .arrow-drop-down {
+                font-size: 123;
+              }
+            }
+            .dropdown-content {
+              .dropdown-content-item {
+                color: black;
+                padding: 12px 16px;
+                text-decoration: none;
+                display: block;
+                &:hover {
+                  background-color: #ddd;
+                }
               }
             }
           }
-        }
-        a {
-          cursor: pointer;
+          a {
+            cursor: pointer;
+          }
         }
       }
-    }
-    .dark-mode-button-container {
-      display: flex;
-      align-items: center;
-    }
-    .lang-button-container {
-      margin-left: 0.5vw;
-      .lang-button {
+      .dark-mode-button-container {
+        display: flex;
+        align-items: center;
+      }
+      .lang-button-container {
+        margin-left: 0.5vw;
+        .lang-button {
+          padding: 0.5em;
+          border-radius: 20%;
+          background-color: #3c47e6;
+          outline: none;
+        }
+      }
+      .menu-icon-container {
+        display: none;
         padding: 0.5em;
-        border-radius: 20%;
-        background-color: #3c47e6;
-        outline: none;
+        .menu-icon-btn {
+          &:focus {
+            outline: none;
+          }
+          &:focus-visible {
+            outline: revert;
+          }
+          .menu-icon {
+          }
+        }
       }
     }
   }
@@ -286,5 +325,36 @@ window.onclick = function (event) {
 /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
 .show {
   display: block;
+}
+
+@media screen and (max-width: 940px) {
+  .static-header-container {
+    .static-header {
+      display: flex;
+      justify-content: space-around;
+      .right-side {
+        .header-meun-items {
+          nav {
+            .header-meun-item {
+              display: none;
+            }
+            #skills {
+              display: none;
+            }
+            #personal_info {
+              display: none;
+            }
+          }
+        }
+        .menu-icon-container {
+          display: block;
+          .menu-icon-btn {
+            .menu-icon {
+            }
+          }
+        }
+      }
+    }
+  }
 }
 </style>

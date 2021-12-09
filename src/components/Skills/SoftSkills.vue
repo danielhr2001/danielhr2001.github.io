@@ -11,12 +11,22 @@ const { t } = useI18n();
       <div class="soft-skills-item">{{ t('soft_skills.self-awareness') }}</div>
       <div class="soft-skills-item">{{ t('soft_skills.self_knowledge') }}</div>
       <div class="soft-skills-item">{{ t('soft_skills.leadership') }}</div>
-      <div class="soft-skills-item">{{ t('soft_skills.conflict_resolution') }}</div>
-      <div class="soft-skills-item">{{ t('soft_skills.crisis_management') }}</div>
-      <div class="soft-skills-item">{{ t('soft_skills.the_power_to_influence_others') }}</div>
-      <div class="soft-skills-item">{{ t('soft_skills.creativity_and_idea_generation') }}</div>
+      <div class="soft-skills-item">
+        {{ t('soft_skills.conflict_resolution') }}
+      </div>
+      <div class="soft-skills-item">
+        {{ t('soft_skills.crisis_management') }}
+      </div>
+      <div class="soft-skills-item">
+        {{ t('soft_skills.the_power_to_influence_others') }}
+      </div>
+      <div class="soft-skills-item">
+        {{ t('soft_skills.creativity_and_idea_generation') }}
+      </div>
       <div class="soft-skills-item">{{ t('soft_skills.responsibility') }}</div>
-      <div class="soft-skills-item">{{ t('soft_skills.decision-making_power') }}</div>
+      <div class="soft-skills-item">
+        {{ t('soft_skills.decision-making_power') }}
+      </div>
       <div class="soft-skills-item">{{ t('soft_skills.team_work') }}</div>
     </div>
   </div>
@@ -24,9 +34,7 @@ const { t } = useI18n();
 
 <style scoped lang="scss">
 .soft-skills-container {
-  height: 30vw;
   padding-top: 8rem;
-  min-height: 540px;
   .soft-skills {
     display: grid;
     grid-template-columns: auto auto auto auto auto;
@@ -36,10 +44,30 @@ const { t } = useI18n();
       display: flex;
       justify-content: center;
       align-items: center;
-      background-color: #FFF;
+      background-color: #fff;
       padding: 2vw;
       text-align: center;
       border-radius: 1rem;
+    }
+  }
+}
+@media screen and (max-width: 940px) {
+  .soft-skills-container {
+    padding: 4rem 0 2rem 0;
+    .soft-skills {
+      grid-template-columns: auto auto;
+      display: grid;
+      padding: 0 10vw;
+      grid-gap: 1em;
+      .soft-skills-item {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #fff;
+        padding: 2vw;
+        text-align: center;
+        border-radius: 1rem;
+      }
     }
   }
 }
