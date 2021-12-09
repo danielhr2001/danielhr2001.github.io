@@ -857,7 +857,7 @@
   "\u0000commonjsHelpers.js": [
     "/assets/vendor.91d9b740.js"
   ],
-  "\u0000/home/runner/work/danielhr2001/danielhr2001/node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js?commonjs-module": [
+  "\u0000/home/runner/work/danielhr2001.github.io/danielhr2001.github.io/node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js?commonjs-module": [
     "/assets/vendor.91d9b740.js"
   ],
   "node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js": [
@@ -906,23 +906,23 @@
     "/assets/404.aefa1aa9.js"
   ],
   "public/my-photo.svg": [
-    "/assets/home.9f557d3c.js",
-    "/assets/home.c33bbbeb.css",
+    "/assets/home.3bfe9182.js",
+    "/assets/home.a9a7b9d4.css",
     "/assets/my-photo.f56243cf.svg"
   ],
   "src/components/StaticHeader.vue?vue&type=style&index=0&scoped=true&lang.scss": [
-    "/assets/home.9f557d3c.js",
-    "/assets/home.c33bbbeb.css",
+    "/assets/home.3bfe9182.js",
+    "/assets/home.a9a7b9d4.css",
     "/assets/my-photo.f56243cf.svg"
   ],
   "src/components/StaticHeader.vue": [
-    "/assets/home.9f557d3c.js",
-    "/assets/home.c33bbbeb.css",
+    "/assets/home.3bfe9182.js",
+    "/assets/home.a9a7b9d4.css",
     "/assets/my-photo.f56243cf.svg"
   ],
   "src/layouts/home.vue": [
-    "/assets/home.9f557d3c.js",
-    "/assets/home.c33bbbeb.css",
+    "/assets/home.3bfe9182.js",
+    "/assets/home.a9a7b9d4.css",
     "/assets/my-photo.f56243cf.svg"
   ]
 }
