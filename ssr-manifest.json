@@ -906,22 +906,22 @@
     "/assets/404.aefa1aa9.js"
   ],
   "public/my-photo.svg": [
-    "/assets/home.3bfe9182.js",
+    "/assets/home.767faa50.js",
     "/assets/home.a9a7b9d4.css",
     "/assets/my-photo.f56243cf.svg"
   ],
   "src/components/StaticHeader.vue?vue&type=style&index=0&scoped=true&lang.scss": [
-    "/assets/home.3bfe9182.js",
+    "/assets/home.767faa50.js",
     "/assets/home.a9a7b9d4.css",
     "/assets/my-photo.f56243cf.svg"
   ],
   "src/components/StaticHeader.vue": [
-    "/assets/home.3bfe9182.js",
+    "/assets/home.767faa50.js",
     "/assets/home.a9a7b9d4.css",
     "/assets/my-photo.f56243cf.svg"
   ],
   "src/layouts/home.vue": [
-    "/assets/home.3bfe9182.js",
+    "/assets/home.767faa50.js",
     "/assets/home.a9a7b9d4.css",
     "/assets/my-photo.f56243cf.svg"
   ]
