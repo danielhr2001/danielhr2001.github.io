@@ -13,7 +13,7 @@ import {
   contact_info,
   personal,
   job_status,
-  social_medias
+  social_medias,
 } from '@/logic/personalInfoTabs';
 </script>
 
@@ -45,34 +45,50 @@ import {
       <div class="content-container">
         <div id="contact_info-container" class="content">
           <div class="texts-containers">
-            <pre v-if="locale == 'fa'" class="text" style="direction: rtl">
+            <p v-if="locale == 'fa'" class="text" style="direction: rtl">
               <span class="question">{{ t('contact_info.address') }}</span> :
 
-                <span class="answer">{{t('contact_info.a-address')}}</span>
-              
-              <span class="question">{{ t('contact_info.phone') }}</span> :
-              
-                <span class="answer">{{t('contact_info.a-phone')}}</span>
-              
-              <span class="question">{{ t('contact_info.email') }}</span> :
-                
-                <span class="answer">Danial.hajirajabi.79@gmail.com</span>
+              <br /><br /><span class="answer">{{
+                t('contact_info.a-address')
+              }}</span>
 
-            </pre>
-            <pre v-else class="text">
+              <br /><br /><span class="question">{{
+                t('contact_info.phone')
+              }}</span>
+              :
+
+              <br /><br /><span class="answer">{{
+                t('contact_info.a-phone')
+              }}</span>
+
+              <br /><br /><span class="question">{{
+                t('contact_info.email')
+              }}</span>
+              :
+
+              <br /><br /><span class="answer"
+                >Danial.hajirajabi.79@gmail.com</span
+              >
+            </p>
+            <p v-else class="text">
               <span class="question">{{ t('contact_info.address') }}</span> :
 
-                <span class="answer">{{t('contact_info.a-address')}}</span>
+              <br /><br /><span class="answer">{{
+                t('contact_info.a-address')
+              }}</span>
 
+              <br /><br />
               <span class="question">{{ t('contact_info.phone') }}</span> :
 
-                <span class="answer">+989019167289</span>
+              <br /><br />
+              <span class="answer">+989019167289</span>
 
+              <br /><br />
               <span class="question">{{ t('contact_info.email') }}</span> :
 
-                <span class="answer">Danial.hajirajabi.79@gmail.com</span>
-
-            </pre>
+              <br /><br />
+              <span class="answer">Danial.hajirajabi.79@gmail.com</span>
+            </p>
           </div>
           <div class="picture-containers">
             <img
@@ -82,36 +98,44 @@ import {
             />
           </div>
         </div>
-        <div id="personal-container" class="content" style="display: none;">
+        <div id="personal-container" class="content" style="display: none">
           <div class="texts-containers">
-            <pre v-if="locale == 'fa'" class="text" style="direction: rtl">
+            <p v-if="locale == 'fa'" class="text" style="direction: rtl">
               <span class="question">{{ t('personal.age') }}</span> :
 
-                <span class="answer">{{t('personal.a-age')}}</span>
-              
+              <br /><br />
+              <span class="answer">{{ t('personal.a-age') }}</span>
+
+              <br /><br />
               <span class="question">{{ t('personal.gender') }}</span> :
 
-                <span class="answer">{{t('personal.a-gender')}}</span>
-              
-              <span class="question">{{ t('personal.marital_status') }}</span> :
-                
-                <span class="answer">{{t('personal.a-marital_status')}}</span>
+              <br /><br />
+              <span class="answer">{{ t('personal.a-gender') }}</span>
 
-            </pre>
-            <pre v-else class="text">
+              <br /><br />
+              <span class="question">{{ t('personal.marital_status') }}</span> :
+
+              <br /><br />
+              <span class="answer">{{ t('personal.a-marital_status') }}</span>
+            </p>
+            <p v-else class="text">
               <span class="question">{{ t('personal.age') }}</span> :
 
-                <span class="answer">{{t('personal.a-age')}}</span>
-              
-              <span class="question">{{ t('personal.gender') }}</span> :
-              
-                <span class="answer">{{t('personal.a-gender')}}</span>
-              
-              <span class="question">{{ t('personal.marital_status') }}</span> :
-                
-                <span class="answer">{{t('personal.a-marital_status')}}</span>
+              <br /><br />
+              <span class="answer">{{ t('personal.a-age') }}</span>
 
-            </pre>
+              <br /><br />
+              <span class="question">{{ t('personal.gender') }}</span> :
+
+              <br /><br />
+              <span class="answer">{{ t('personal.a-gender') }}</span>
+
+              <br /><br />
+              <span class="question">{{ t('personal.marital_status') }}</span> :
+
+              <br /><br />
+              <span class="answer">{{ t('personal.a-marital_status') }}</span>
+            </p>
           </div>
           <div class="picture-containers">
             <img
@@ -121,44 +145,86 @@ import {
             />
           </div>
         </div>
-        <div id="job_status-container" class="content" style="display: none;">
+        <div id="job_status-container" class="content" style="display: none">
           <div class="texts-containers">
-            <pre v-if="locale == 'fa'" class="text" style="direction: rtl">
+            <p v-if="locale == 'fa'" class="text" style="direction: rtl">
               <span class="question">{{ t('job_status.job_status') }}</span> :
 
-                <span class="answer">{{t('job_status.a-job_status')}}</span>
-              
-              <span class="question">{{ t('job_status.the_type_of_job_in_question') }}</span> :
-              
-                <span class="answer">{{t('job_status.a-the_type_of_job_in_question')}}</span>
-              
-              <span class="question">{{ t('job_status.intended_income') }}</span> :
-                
-                <span class="answer">{{t('job_status.a-intended_income')}}</span>
-              
-              <span class="question">{{ t('job_status.cities_i_like_to_work_in') }}</span> :
-                
-                <span class="answer">{{t('job_status.a-cities_t_like_to_work_in')}}</span>
+              <br /><br />
+              <span class="answer">{{ t('job_status.a-job_status') }}</span>
 
-            </pre>
-            <pre v-else class="text">
+              <br /><br />
+              <span class="question">{{
+                t('job_status.the_type_of_job_in_question')
+              }}</span>
+              :
+
+              <br /><br />
+              <span class="answer">{{
+                t('job_status.a-the_type_of_job_in_question')
+              }}</span>
+
+              <br /><br />
+              <span class="question">{{
+                t('job_status.intended_income')
+              }}</span>
+              :
+
+              <br /><br />
+              <span class="answer">{{
+                t('job_status.a-intended_income')
+              }}</span>
+
+              <br /><br />
+              <span class="question">{{
+                t('job_status.cities_i_like_to_work_in')
+              }}</span>
+              :
+
+              <br /><br />
+              <span class="answer">{{
+                t('job_status.a-cities_t_like_to_work_in')
+              }}</span>
+            </p>
+            <p v-else class="text">
               <span class="question">{{ t('job_status.job_status') }}</span> :
 
-                <span class="answer">{{t('job_status.a-job_status')}}</span>
-              
-              <span class="question">{{ t('job_status.the_type_of_job_in_question') }}</span> :
-              
-                <span class="answer">{{t('job_status.a-the_type_of_job_in_question')}}</span>
-              
-              <span class="question">{{ t('job_status.intended_income') }}</span> :
-                
-                <span class="answer">{{t('job_status.a-intended_income')}}</span>
-              
-              <span class="question">{{ t('job_status.cities_i_like_to_work_in') }}</span> :
-                
-                <span class="answer">{{t('job_status.a-cities_t_like_to_work_in')}}</span>
+              <br /><br />
+              <span class="answer">{{ t('job_status.a-job_status') }}</span>
 
-            </pre>
+              <br /><br />
+              <span class="question">{{
+                t('job_status.the_type_of_job_in_question')
+              }}</span>
+              :
+
+              <br /><br />
+              <span class="answer">{{
+                t('job_status.a-the_type_of_job_in_question')
+              }}</span>
+
+              <br /><br />
+              <span class="question">{{
+                t('job_status.intended_income')
+              }}</span>
+              :
+
+              <br /><br />
+              <span class="answer">{{
+                t('job_status.a-intended_income')
+              }}</span>
+
+              <br /><br />
+              <span class="question">{{
+                t('job_status.cities_i_like_to_work_in')
+              }}</span>
+              :
+
+              <br /><br />
+              <span class="answer">{{
+                t('job_status.a-cities_t_like_to_work_in')
+              }}</span>
+            </p>
           </div>
           <div class="picture-containers">
             <img
@@ -168,52 +234,76 @@ import {
             />
           </div>
         </div>
-        <div id="social_medias-container" class="content" style="display: none;">
+        <div id="social_medias-container" class="content" style="display: none">
           <div class="texts-containers">
-            <pre v-if="locale == 'fa'" class="text" style="direction: rtl">
+            <p v-if="locale == 'fa'" class="text" style="direction: rtl">
               <span class="question">{{ t('social_medias.telegram') }}</span> :
 
-                <span class="answer">@Haji_rajabi</span>
-              
-              <span class="question">{{ t('social_medias.twitter') }}</span> :
-              
-                <span class="answer">@Daniyal_Iran79</span>
-              
-              <span class="question">{{ t('social_medias.github') }}</span> :
-                
-                <a href="https://github.com/danielhr2001"><span class="answer" style="color:#6C63FF">{{ t('social_medias.a-github') }}</span></a>
-              
-              <span class="question">{{ t('social_medias.glassdoor') }}</span> :
-                
-                <span class="answer">Danial Hajirajabi</span>
-              
-              <span class="question">{{ t('social_medias.linkedin') }}</span> :
-                
-                <span class="answer">Danial Hajirajabi</span>
+              <br /><br />
+              <span class="answer">@Haji_rajabi</span>
 
-            </pre>
-            <pre v-else class="text">
+              <br /><br />
+              <span class="question">{{ t('social_medias.twitter') }}</span> :
+
+              <br /><br />
+              <span class="answer">@Daniyal_Iran79</span>
+
+              <br /><br />
+              <span class="question">{{ t('social_medias.github') }}</span> :
+
+              <br /><br />
+              <a href="https://github.com/danielhr2001"
+                ><span class="answer" style="color: #6c63ff">{{
+                  t('social_medias.a-github')
+                }}</span></a
+              >
+
+              <br /><br />
+              <span class="question">{{ t('social_medias.glassdoor') }}</span> :
+
+              <br /><br />
+              <span class="answer">Danial Hajirajabi</span>
+
+              <br /><br />
+              <span class="question">{{ t('social_medias.linkedin') }}</span> :
+
+              <br /><br />
+              <span class="answer">Danial Hajirajabi</span>
+            </p>
+            <p v-else class="text">
               <span class="question">{{ t('social_medias.telegram') }}</span> :
 
-                <span class="answer">@Haji_rajabi</span>
-              
-              <span class="question">{{ t('social_medias.twitter') }}</span> :
-              
-                <span class="answer">@Daniyal_Iran79</span>
-              
-              <span class="question">{{ t('social_medias.github') }}</span> :
-                
-                <a href="https://github.com/danielhr2001"><span class="answer" style="color:#6C63FF">{{ t('social_medias.a-github') }}</span></a>
-              
-              <span class="question">{{ t('social_medias.glassdoor') }}</span> :
-                
-                <span class="answer">Danial Hajirajabi</span>
-              
-              <span class="question">{{ t('social_medias.linkedin') }}</span> :
-                
-                <span class="answer">Danial Hajirajabi</span>
+              <br /><br />
+              <span class="answer">@Haji_rajabi</span>
 
-            </pre>
+              <br /><br />
+              <span class="question">{{ t('social_medias.twitter') }}</span> :
+
+              <br /><br />
+              <span class="answer">@Daniyal_Iran79</span>
+
+              <br /><br />
+              <span class="question">{{ t('social_medias.github') }}</span> :
+
+              <br /><br />
+              <a href="https://github.com/danielhr2001"
+                ><span class="answer" style="color: #6c63ff">{{
+                  t('social_medias.a-github')
+                }}</span></a
+              >
+
+              <br /><br />
+              <span class="question">{{ t('social_medias.glassdoor') }}</span> :
+
+              <br /><br />
+              <span class="answer">Danial Hajirajabi</span>
+
+              <br /><br />
+              <span class="question">{{ t('social_medias.linkedin') }}</span> :
+
+              <br /><br />
+              <span class="answer">Danial Hajirajabi</span>
+            </p>
           </div>
           <div class="picture-containers">
             <img
@@ -222,10 +312,10 @@ import {
               class="picture"
             />
           </div>
-          </div>
         </div>
       </div>
     </div>
+  </div>
 </template>
 
 <style scoped lang="scss">
@@ -281,10 +371,12 @@ import {
         .texts-containers {
           width: 50%;
           z-index: 20;
+          display: flex;
+          overflow: hidden;
           // background-color: aqua;
 
           .text {
-            font-size: 20px;
+            font-size: calc(10px + 0.5vw);
             font-weight: 900;
           }
         }
