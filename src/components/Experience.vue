@@ -1,26 +1,3 @@
-<script lang="ts">
-export default defineComponent({
-  data() {
-    return {
-      lang: 'locale',
-    };
-  },
-  watch: {
-    lang: function (val) {
-      const card_items = document.getElementsByClassName('card-items');
-      if (val == 'fa') {
-        for (let i = 0; i < card_items.length; i++) {
-          card_items[i].style.direction = 'rtl';
-        }
-      } else {
-        for (let i = 0; i < card_items.length; i++) {
-          card_items[i].style.direction = 'ltr';
-        }
-      }
-    },
-  },
-});
-</script>
 <script setup lang="ts">
 const { t } = useI18n();
 </script>
@@ -99,7 +76,7 @@ const { t } = useI18n();
 
 <style scoped lang="scss">
 .experience-container {
-  padding: 8rem 25vw;
+  padding: 4rem 25vw;
   .experience {
     .card-items {
       display: flex;
@@ -120,6 +97,37 @@ const { t } = useI18n();
         align-items: center;
         justify-content: start;
         .txt {
+        }
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 940px) {
+  .experience-container {
+    padding: 4rem 16vw;
+    .experience {
+      .card-items {
+        display: block;
+        align-items: center;
+        border-radius: 20px;
+        overflow: hidden;
+        background-color: #fff;
+        margin: 2.5vw 0;
+        .img-container {
+          width: auto;
+          .img {
+            width: auto;
+          }
+        }
+        .txt-container {
+          width: 37vw;
+          display: flex;
+          align-items: center;
+          justify-content: start;
+          padding: 0 2vw;
+          .txt {
+          }
         }
       }
     }
