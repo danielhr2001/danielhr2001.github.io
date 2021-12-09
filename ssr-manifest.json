@@ -1,0 +1,928 @@
+{
+  "vite/modulepreload-polyfill": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "locales/de.yml": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "locales/en.yml": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "locales/fa.yml": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "src/plugins/i18n.ts": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "src/plugins/nprogress.ts": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "src/plugins/pinia.ts": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "vite/preload-helper": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "src/plugins/pwa.ts": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "src/components/AboutMe.vue": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "public/freelancer.svg": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "public/startup-team.svg": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "src/components/Experience.vue?vue&type=style&index=0&scoped=true&lang.scss": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "plugin-vue:export-helper": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "src/components/Experience.vue": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "public/university.svg": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "public/school.svg": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "src/components/Education.vue?vue&type=style&index=0&scoped=true&lang.scss": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "src/components/Education.vue": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "public/backend_skills-card.svg": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "public/frontend_skills-card.svg": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "src/components/Skills/HardSkills.vue?vue&type=style&index=0&scoped=true&lang.scss": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "src/components/Skills/HardSkills.vue": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "src/components/Skills/SoftSkills.vue?vue&type=style&index=0&scoped=true&lang.scss": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "src/components/Skills/SoftSkills.vue": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "src/components/Skills.vue": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "public/cantact.svg": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "public/personal_information.svg": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "public/job.svg": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "public/social-media.svg": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "src/logic/personalInfoTabs.ts": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "src/components/PersonalInfo.vue?vue&type=style&index=0&scoped=true&lang.scss": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "src/components/PersonalInfo.vue": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "public/webDesigner.svg": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "public/ball.png": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "src/components/FirstView.vue?vue&type=style&index=0&scoped=true&lang.scss": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "src/components/FirstView.vue": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "src/pages/index.vue?vue&type=style&index=0&scoped=true&lang.scss": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "src/pages/index.vue?vue&type=route&index=0&lang.yaml": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "src/pages/index.vue": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "../../../../../@vite-plugin-pages/generated-pages": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "src/components/Footer.vue?vue&type=style&index=0&scoped=true&lang.scss": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "src/components/Footer.vue": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "src/layouts/default.vue": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "../../../../../@vite-plugin-vue-layouts/generated-layouts": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "src/App.vue": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "../../../../../@windicss/windi-base.css": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "../../../../../@windicss/windi-components.css": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "src/styles/main.scss": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "../../../../../@windicss/windi-utilities.css": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "src/main.ts": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "index.html": [
+    "/assets/freelancer.f098216d.svg",
+    "/assets/startup-team.c0032850.svg",
+    "/assets/university.e71a04e3.svg",
+    "/assets/school.9d929f6c.svg",
+    "/assets/backend_skills-card.3de7b0bf.svg",
+    "/assets/frontend_skills-card.baa7c5ed.svg",
+    "/assets/cantact.6625aa68.svg",
+    "/assets/personal_information.f167ba01.svg",
+    "/assets/job.46538f8f.svg",
+    "/assets/social-media.2e4cfe4c.svg",
+    "/assets/webDesigner.d2f4d5dd.svg",
+    "/assets/ball.7230db47.png",
+    "/assets/background-firstView.ad5ccddc.svg"
+  ],
+  "node_modules/.pnpm/@intlify+shared@9.1.9/node_modules/@intlify/shared/dist/shared.esm-bundler.js": [
+    "/assets/vendor.91d9b740.js"
+  ],
+  "node_modules/.pnpm/@intlify+message-resolver@9.1.9/node_modules/@intlify/message-resolver/dist/message-resolver.esm-bundler.js": [
+    "/assets/vendor.91d9b740.js"
+  ],
+  "node_modules/.pnpm/@intlify+runtime@9.1.9/node_modules/@intlify/runtime/dist/runtime.esm-bundler.js": [
+    "/assets/vendor.91d9b740.js"
+  ],
+  "node_modules/.pnpm/@intlify+message-compiler@9.1.9/node_modules/@intlify/message-compiler/dist/message-compiler.esm-bundler.js": [
+    "/assets/vendor.91d9b740.js"
+  ],
+  "node_modules/.pnpm/@intlify+devtools-if@9.1.9/node_modules/@intlify/devtools-if/dist/devtools-if.esm-bundler.js": [
+    "/assets/vendor.91d9b740.js"
+  ],
+  "node_modules/.pnpm/@intlify+core-base@9.1.9/node_modules/@intlify/core-base/dist/core-base.esm-bundler.js": [
+    "/assets/vendor.91d9b740.js"
+  ],
+  "node_modules/.pnpm/@vue+shared@3.2.24/node_modules/@vue/shared/dist/shared.esm-bundler.js": [
+    "/assets/vendor.91d9b740.js"
+  ],
+  "node_modules/.pnpm/@vue+reactivity@3.2.24/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
+    "/assets/vendor.91d9b740.js"
+  ],
+  "node_modules/.pnpm/@vue+runtime-core@3.2.24/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
+    "/assets/vendor.91d9b740.js"
+  ],
+  "node_modules/.pnpm/@vue+runtime-dom@3.2.24/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
+    "/assets/vendor.91d9b740.js"
+  ],
+  "node_modules/.pnpm/vue@3.2.24/node_modules/vue/dist/vue.runtime.esm-bundler.js": [
+    "/assets/vendor.91d9b740.js"
+  ],
+  "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.20.1/node_modules/@vue/devtools-api/lib/esm/env.js": [
+    "/assets/vendor.91d9b740.js"
+  ],
+  "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.20.1/node_modules/@vue/devtools-api/lib/esm/const.js": [
+    "/assets/vendor.91d9b740.js"
+  ],
+  "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.20.1/node_modules/@vue/devtools-api/lib/esm/proxy.js": [
+    "/assets/vendor.91d9b740.js"
+  ],
+  "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.20.1/node_modules/@vue/devtools-api/lib/esm/api/api.js": [
+    "/assets/vendor.91d9b740.js"
+  ],
+  "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.20.1/node_modules/@vue/devtools-api/lib/esm/api/app.js": [
+    "/assets/vendor.91d9b740.js"
+  ],
+  "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.20.1/node_modules/@vue/devtools-api/lib/esm/api/component.js": [
+    "/assets/vendor.91d9b740.js"
+  ],
+  "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.20.1/node_modules/@vue/devtools-api/lib/esm/api/context.js": [
+    "/assets/vendor.91d9b740.js"
+  ],
+  "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.20.1/node_modules/@vue/devtools-api/lib/esm/api/hooks.js": [
+    "/assets/vendor.91d9b740.js"
+  ],
+  "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.20.1/node_modules/@vue/devtools-api/lib/esm/api/util.js": [
+    "/assets/vendor.91d9b740.js"
+  ],
+  "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.20.1/node_modules/@vue/devtools-api/lib/esm/api/index.js": [
+    "/assets/vendor.91d9b740.js"
+  ],
+  "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.20.1/node_modules/@vue/devtools-api/lib/esm/plugin.js": [
+    "/assets/vendor.91d9b740.js"
+  ],
+  "node_modules/.pnpm/@vue+devtools-api@6.0.0-beta.20.1/node_modules/@vue/devtools-api/lib/esm/index.js": [
+    "/assets/vendor.91d9b740.js"
+  ],
+  "node_modules/.pnpm/@intlify+vue-devtools@9.1.9/node_modules/@intlify/vue-devtools/dist/vue-devtools.esm-bundler.js": [
+    "/assets/vendor.91d9b740.js"
+  ],
+  "node_modules/.pnpm/vue-i18n@9.1.9_vue@3.2.24/node_modules/vue-i18n/dist/vue-i18n.runtime.esm-bundler.js": [
+    "/assets/vendor.91d9b740.js"
+  ],
+  "\u0000commonjsHelpers.js": [
+    "/assets/vendor.91d9b740.js"
+  ],
+  "\u0000/home/runner/work/danielhr2001/danielhr2001/node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js?commonjs-module": [
+    "/assets/vendor.91d9b740.js"
+  ],
+  "node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js": [
+    "/assets/vendor.91d9b740.js"
+  ],
+  "node_modules/.pnpm/vue-demi@0.12.1_vue@3.2.24/node_modules/vue-demi/lib/index.mjs": [
+    "/assets/vendor.91d9b740.js"
+  ],
+  "node_modules/.pnpm/pinia@2.0.6_typescript@4.5.2+vue@3.2.24/node_modules/pinia/dist/pinia.esm-browser.js": [
+    "/assets/vendor.91d9b740.js"
+  ],
+  "node_modules/.pnpm/vite-ssg@0.15.6_b96ecf703ee9c1b6760b9727ab390858/node_modules/vite-ssg/dist/chunk-YPUM4SRK.mjs": [
+    "/assets/vendor.91d9b740.js"
+  ],
+  "node_modules/.pnpm/vite-ssg@0.15.6_b96ecf703ee9c1b6760b9727ab390858/node_modules/vite-ssg/dist/chunk-UH52UDT5.mjs": [
+    "/assets/vendor.91d9b740.js"
+  ],
+  "node_modules/.pnpm/vue-router@4.0.12_vue@3.2.24/node_modules/vue-router/dist/vue-router.esm-bundler.js": [
+    "/assets/vendor.91d9b740.js"
+  ],
+  "node_modules/.pnpm/@vueuse+head@0.6.0_vue@3.2.24/node_modules/@vueuse/head/dist/index.mjs": [
+    "/assets/vendor.91d9b740.js"
+  ],
+  "node_modules/.pnpm/vite-ssg@0.15.6_b96ecf703ee9c1b6760b9727ab390858/node_modules/vite-ssg/dist/index.mjs": [
+    "/assets/vendor.91d9b740.js"
+  ],
+  "node_modules/.pnpm/workbox-window@6.4.2/node_modules/workbox-window/build/workbox-window.prod.es5.mjs": [
+    "/assets/virtual_pwa-register.bbb77b58.js"
+  ],
+  "../../../../../@vite-plugin-pwa/virtual:pwa-register": [
+    "/assets/virtual_pwa-register.bbb77b58.js"
+  ],
+  "src/pages/README.md": [
+    "/assets/README.599d5253.js"
+  ],
+  "~icons/carbon/dicom-overlay": [
+    "/assets/about.5aa61c14.js"
+  ],
+  "src/pages/about.md": [
+    "/assets/about.5aa61c14.js"
+  ],
+  "~icons/carbon/warning": [
+    "/assets/404.aefa1aa9.js"
+  ],
+  "src/layouts/404.vue": [
+    "/assets/404.aefa1aa9.js"
+  ],
+  "public/my-photo.svg": [
+    "/assets/home.9f557d3c.js",
+    "/assets/home.c33bbbeb.css",
+    "/assets/my-photo.f56243cf.svg"
+  ],
+  "src/components/StaticHeader.vue?vue&type=style&index=0&scoped=true&lang.scss": [
+    "/assets/home.9f557d3c.js",
+    "/assets/home.c33bbbeb.css",
+    "/assets/my-photo.f56243cf.svg"
+  ],
+  "src/components/StaticHeader.vue": [
+    "/assets/home.9f557d3c.js",
+    "/assets/home.c33bbbeb.css",
+    "/assets/my-photo.f56243cf.svg"
+  ],
+  "src/layouts/home.vue": [
+    "/assets/home.9f557d3c.js",
+    "/assets/home.c33bbbeb.css",
+    "/assets/my-photo.f56243cf.svg"
+  ]
+}
