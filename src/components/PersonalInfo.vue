@@ -177,7 +177,7 @@ import {
               <span class="question">{{ t('social_medias.linkedin') }}</span> :
 
               <br /><br class="br" />
-              <span class="answer">Danial Hajirajabi</span>
+              <span class="answer">{{ t('social_medias.a-linkedin') }}</span>
             </p>
           </div>
           <div class="picture-containers">
