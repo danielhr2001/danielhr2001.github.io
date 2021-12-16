@@ -4,8 +4,12 @@
 // they will be rendered correctly in the html results with vite-ssg
 const { t, locale } = useI18n();
 useHead({
-  title: 'personalWeb',
-  meta: [{ name: 'description', content: 'ProtofileWeb' }],
+  title: "personalWeb",
+  meta: [{ name: "description", content: "Daniel Hajirajabi's Portfolio web" },
+  { name: "application-name", content: "my profile" },
+  { name: "generator", content: "Daniel Hajirajabi" },
+  { name: "keywords", content: "Daniel Hajirajabi, Danial Hajirajabi, دانیال حاجی رجبی, PHP, Laravel, Backend, Developer, Programmer, FullStack, node.js" },
+  { name: "author", content: "Daniel Hajirajabi" }],
 });
 watch(locale, (count) => {
   const card_items = document.getElementsByClassName('card-items');
