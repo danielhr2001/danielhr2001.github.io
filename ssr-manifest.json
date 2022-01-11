@@ -1186,23 +1186,23 @@
     "/assets/404.d0dfa2a9.js"
   ],
   "public/my-photo.svg": [
-    "/assets/home.8fa651ca.js",
-    "/assets/home.bedcb19b.css",
+    "/assets/home.df8adef4.js",
+    "/assets/home.accbf042.css",
     "/assets/my-photo.f56243cf.svg"
   ],
   "src/components/StaticHeader.vue?vue&type=style&index=0&scoped=true&lang.scss": [
-    "/assets/home.8fa651ca.js",
-    "/assets/home.bedcb19b.css",
+    "/assets/home.df8adef4.js",
+    "/assets/home.accbf042.css",
     "/assets/my-photo.f56243cf.svg"
   ],
   "src/components/StaticHeader.vue": [
-    "/assets/home.8fa651ca.js",
-    "/assets/home.bedcb19b.css",
+    "/assets/home.df8adef4.js",
+    "/assets/home.accbf042.css",
     "/assets/my-photo.f56243cf.svg"
   ],
   "src/layouts/home.vue": [
-    "/assets/home.8fa651ca.js",
-    "/assets/home.bedcb19b.css",
+    "/assets/home.df8adef4.js",
+    "/assets/home.accbf042.css",
     "/assets/my-photo.f56243cf.svg"
   ]
 }
