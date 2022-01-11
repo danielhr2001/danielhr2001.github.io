@@ -92,7 +92,7 @@ window.onclick = function (event) {
         </div>
       </div>
       <div class="right-side">
-        <div class="header-meun-items">
+        <div class="header-menu-items">
           <nav>
             <a
               class="header-meun-item"
@@ -240,7 +240,7 @@ window.onclick = function (event) {
     .right-side {
       display: flex;
       align-items: center;
-      .header-meun-items {
+      .header-menu-items {
         nav {
           .header-meun-item {
             &:hover {
@@ -333,7 +333,7 @@ window.onclick = function (event) {
       display: flex;
       justify-content: space-around;
       .right-side {
-        .header-meun-items {
+        .header-menu-items {
           nav {
             .header-meun-item {
               display: none;
@@ -347,7 +347,7 @@ window.onclick = function (event) {
           }
         }
         .menu-icon-container {
-          display: block;
+          display: none;
           .menu-icon-btn {
             .menu-icon {
             }
